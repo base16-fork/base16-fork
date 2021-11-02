@@ -1,0 +1,71 @@
+diff --git a/config.def.h b/config.def.h
+index 0e01717..c288227 100644
+--- a/config.def.h
++++ b/config.def.h
+@@ -82,33 +82,35 @@ char *termname = "st-256color";
+  */
+ unsigned int tabspaces = 8;
+ 
+-/* Terminal colors (16 first used in escape sequence) */
++/*
++ * Terminal colors (16 first used in escape sequence)
++ * Base16 st template by Daniel Mulford
++ * Rosé Pine Moon scheme by Emilia Dunfelt <sayhi@dunfelt.se>
++ */
+ static const char *colorname[] = {
+-	/* 8 normal colors */
+-	"black",
+-	"red3",
+-	"green3",
+-	"yellow3",
+-	"blue2",
+-	"magenta3",
+-	"cyan3",
+-	"gray90",
++    /* 8 normal colors */
++	[0] = "#232136", /* black   */
++	[1] = "#ecebf0", /* red     */
++	[2] = "#ea9a97", /* green   */
++	[3] = "#f6c177", /* yellow  */
++	[4] = "#9ccfd8", /* blue    */
++	[5] = "#c4a7e7", /* magenta */
++	[6] = "#3e8fb0", /* cyan    */
++	[7] = "#e0def4", /* white   */
+ 
+ 	/* 8 bright colors */
+-	"gray50",
+-	"red",
+-	"green",
+-	"yellow",
+-	"#5c5cff",
+-	"magenta",
+-	"cyan",
+-	"white",
++	[8]  = "#59546d", /* black   */
++	[9]  = "#ecebf0", /* red     */
++	[10] = "#ea9a97", /* green   */
++	[11] = "#f6c177", /* yellow  */
++	[12] = "#9ccfd8", /* blue    */
++	[13] = "#c4a7e7", /* magenta */
++	[14] = "#3e8fb0", /* cyan    */
++	[15] = "#d9d7e1", /* white   */
+ 
+ 	[255] = 0,
+ 
+ 	/* more colors can be added after 255 to use with DefaultXX */
+-	"#cccccc",
+-	"#555555",
+ };
+ 
+ 
+@@ -118,8 +120,8 @@ static const char *colorname[] = {
+  */
+ unsigned int defaultfg = 7;
+ unsigned int defaultbg = 0;
+-static unsigned int defaultcs = 256;
+-static unsigned int defaultrcs = 257;
++static unsigned int defaultcs = 7;
++static unsigned int defaultrcs = 0;
+ 
+ /*
+  * Default shape of cursor

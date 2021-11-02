@@ -1,0 +1,42 @@
+# Base16 Ayu Mirage - amfora color config
+# Khue Nguyen <Z5483Y@gmail.com>
+
+[theme]
+bg = "#171B24"
+fg = "#CCCAC2"
+
+bottombar_label = "#D4BFFF"
+bottombar_text = "#CCCAC2"
+bottombar_bg = "#1F2430"
+
+tab_num = "#242936"
+tab_divider = "#8A9199"
+
+amfora_link = "#D5FF80"
+foreign_link = "#707A8C"
+link_number = "#707A8C"
+
+btn_bg = "#1F2430"
+btn_text = "#CCCAC2"
+
+input_modal_bg = "#1F2430"
+input_modal_text = "#CCCAC2"
+input_modal_field_bg = "#171B24"
+input_modal_field_text = "#CCCAC2"
+info_modal_bg = "#1F2430"
+info_modal_text = "#CCCAC2"
+error_modal_bg = "#1F2430"
+error_modal_text = "#F29E74"
+yesno_modal_bg = "#1F2430"
+yesno_modal_text = "#CCCAC2"
+tofu_modal_bg = "#1F2430"
+tofu_modal_text = "#CCCAC2"
+subscription_modal_bg = "#1F2430"
+subscription_modal_text = "#CCCAC2"
+
+hdg_1 = "#FFAD66"
+hdg_2 = "#FFD173"
+hdg_3 = "#5CCFE6"
+regular_text = "#CCCAC2"
+preformatted_text = "#95E6CB"
+list_text = "#CCCAC2"

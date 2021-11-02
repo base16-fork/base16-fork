@@ -1,0 +1,61 @@
+
+# base16 Darcula by jetbrains
+
+.colors *
+
+-text		$a9b7c6/$2b2b2b
+-status		$a4a3a3/$323232
+-cursor		$2b2b2b/$a9b7c6
+-selection	/$323232
+-curlin		/$323232
+-linum		$606366/$323232
+-curlinum	$a4a3a3/$323232
+-menusel	$323232/$a4a3a3
+
+-term 0 	$2b2b2b
+-term 1 	$9876aa
+-term 2 	$6a8759
+-term 3 	$629755
+-term 4 	$689757
+-term 5 	$cc7832
+-term 6 	$bbb529
+-term 7 	$a4a3a3
+-term 8 	$606366
+-term 9 	$9876aa
+-term 10	$6a8759
+-term 11	$629755
+-term 12	$4eade5
+-term 13	$808080
+-term 14	$bbb529
+-term 15	$ffffff
+
+=Constant	$689757
+=String		$6a8759
+=Escape		$629755
+
+=Comment	$606366
+=StorageClass	+Type
+=Keyword	$cc7832
+=Conditional	$cc7832
+=Operator	$a9b7c6
+=Loop		$bbb529
+=Statement	$4eade5
+=Type		$bbb529
+
+=DefinedIdent	$4eade5
+=Label		$bbb529
+=DefinedType	$bbb529
+=Structure	$cc7832
+
+=Preproc	$bbb529
+=Include	$9876aa
+=Define		$cc7832
+=TODO		$bbb529/$323232
+=Precond	$cc7832
+
+=diff.AddLine	$6a8759/$323232
+=diff.ChgLine	$606366/$323232
+=diff.DelLine	$4eade5/$323232
+=diff.File	$4eade5
+=diff.FileNew	$6a8759
+=diff.Hunk	$9876aa

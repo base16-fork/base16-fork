@@ -1,0 +1,31 @@
+; base16-colors
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: mrmrs (http://clrs.cc)
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #111111
+base01 = #333333
+base02 = #555555
+base03 = #777777
+base04 = #999999
+base05 = #bbbbbb
+base06 = #dddddd
+base07 = #ffffff
+base08 = #ff4136
+base09 = #ff851b
+base0a = #ffdc00
+base0b = #2ecc40
+base0c = #7fdbff
+base0d = #0074d9
+base0e = #b10dc9
+base0f = #85144b
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

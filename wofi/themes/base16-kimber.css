@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Kimber scheme by Mishka Nguyen (https://github.com/akhsiM) */
+
+window {
+	background-color: #222222;
+	color: #DEDEE7;
+}
+
+#entry:nth-child(odd) {
+	background-color: #222222;
+}
+
+#entry:nth-child(even) {
+	background-color: #313131;
+}
+
+#entry:selected {
+	background-color: #555D55;
+}
+
+#input {
+	background-color: #313131;
+	color: #5A5A5A;
+	border-color: #555D55; 
+}
+
+#input:focus {
+	border-color: #D8B56D; 
+}

@@ -1,0 +1,61 @@
+
+# base16 Colors by mrmrs (http://clrs.cc)
+
+.colors *
+
+-text		$bbbbbb/$111111
+-status		$999999/$555555
+-cursor		$111111/$bbbbbb
+-selection	/$555555
+-curlin		/$333333
+-linum		$777777/$333333
+-curlinum	$999999/$333333
+-menusel	$333333/$999999
+
+-term 0 	$111111
+-term 1 	$0074d9
+-term 2 	$2ecc40
+-term 3 	$7fdbff
+-term 4 	$ff851b
+-term 5 	$b10dc9
+-term 6 	$ffdc00
+-term 7 	$999999
+-term 8 	$777777
+-term 9 	$0074d9
+-term 10	$2ecc40
+-term 11	$7fdbff
+-term 12	$ff4136
+-term 13	$85144b
+-term 14	$ffdc00
+-term 15	$ffffff
+
+=Constant	$ff851b
+=String		$2ecc40
+=Escape		$7fdbff
+
+=Comment	$777777
+=StorageClass	+Type
+=Keyword	$b10dc9
+=Conditional	$b10dc9
+=Operator	$bbbbbb
+=Loop		$ffdc00
+=Statement	$ff4136
+=Type		$ffdc00
+
+=DefinedIdent	$ff4136
+=Label		$ffdc00
+=DefinedType	$ffdc00
+=Structure	$b10dc9
+
+=Preproc	$ffdc00
+=Include	$0074d9
+=Define		$b10dc9
+=TODO		$ffdc00/$333333
+=Precond	$b10dc9
+
+=diff.AddLine	$2ecc40/$333333
+=diff.ChgLine	$777777/$333333
+=diff.DelLine	$ff4136/$333333
+=diff.File	$ff4136
+=diff.FileNew	$2ecc40
+=diff.Hunk	$0074d9

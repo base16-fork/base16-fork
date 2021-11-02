@@ -1,0 +1,61 @@
+
+# base16 summercamp by zoe firi (zoefiri.github.io)
+
+.colors *
+
+-text		$736e55/$1c1810
+-status		$5f5b45/$3a3527
+-cursor		$1c1810/$736e55
+-selection	/$3a3527
+-curlin		/$2a261c
+-linum		$504b38/$2a261c
+-curlinum	$5f5b45/$2a261c
+-menusel	$2a261c/$5f5b45
+
+-term 0 	$1c1810
+-term 1 	$489bf0
+-term 2 	$5ceb5a
+-term 3 	$5aebbc
+-term 4 	$fba11b
+-term 5 	$FF8080
+-term 6 	$f2ff27
+-term 7 	$5f5b45
+-term 8 	$504b38
+-term 9 	$489bf0
+-term 10	$5ceb5a
+-term 11	$5aebbc
+-term 12	$e35142
+-term 13	$F69BE7
+-term 14	$f2ff27
+-term 15	$f8f5de
+
+=Constant	$fba11b
+=String		$5ceb5a
+=Escape		$5aebbc
+
+=Comment	$504b38
+=StorageClass	+Type
+=Keyword	$FF8080
+=Conditional	$FF8080
+=Operator	$736e55
+=Loop		$f2ff27
+=Statement	$e35142
+=Type		$f2ff27
+
+=DefinedIdent	$e35142
+=Label		$f2ff27
+=DefinedType	$f2ff27
+=Structure	$FF8080
+
+=Preproc	$f2ff27
+=Include	$489bf0
+=Define		$FF8080
+=TODO		$f2ff27/$2a261c
+=Precond	$FF8080
+
+=diff.AddLine	$5ceb5a/$2a261c
+=diff.ChgLine	$504b38/$2a261c
+=diff.DelLine	$e35142/$2a261c
+=diff.File	$e35142
+=diff.FileNew	$5ceb5a
+=diff.Hunk	$489bf0

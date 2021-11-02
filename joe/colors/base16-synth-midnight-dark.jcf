@@ -1,0 +1,61 @@
+
+# base16 Synth Midnight Terminal Dark by Michaël Ball (http://github.com/michael-ball/)
+
+.colors *
+
+-text		$c1c3c4/$050608
+-status		$a3a5a6/$28292a
+-cursor		$050608/$c1c3c4
+-selection	/$28292a
+-curlin		/$1a1b1c
+-linum		$474849/$1a1b1c
+-curlinum	$a3a5a6/$1a1b1c
+-menusel	$1a1b1c/$a3a5a6
+
+-term 0 	$050608
+-term 1 	$03aeff
+-term 2 	$06ea61
+-term 3 	$42fff9
+-term 4 	$ea770d
+-term 5 	$ea5ce2
+-term 6 	$c9d364
+-term 7 	$a3a5a6
+-term 8 	$474849
+-term 9 	$03aeff
+-term 10	$06ea61
+-term 11	$42fff9
+-term 12	$b53b50
+-term 13	$cd6320
+-term 14	$c9d364
+-term 15	$dddfe0
+
+=Constant	$ea770d
+=String		$06ea61
+=Escape		$42fff9
+
+=Comment	$474849
+=StorageClass	+Type
+=Keyword	$ea5ce2
+=Conditional	$ea5ce2
+=Operator	$c1c3c4
+=Loop		$c9d364
+=Statement	$b53b50
+=Type		$c9d364
+
+=DefinedIdent	$b53b50
+=Label		$c9d364
+=DefinedType	$c9d364
+=Structure	$ea5ce2
+
+=Preproc	$c9d364
+=Include	$03aeff
+=Define		$ea5ce2
+=TODO		$c9d364/$1a1b1c
+=Precond	$ea5ce2
+
+=diff.AddLine	$06ea61/$1a1b1c
+=diff.ChgLine	$474849/$1a1b1c
+=diff.DelLine	$b53b50/$1a1b1c
+=diff.File	$b53b50
+=diff.FileNew	$06ea61
+=diff.Hunk	$03aeff

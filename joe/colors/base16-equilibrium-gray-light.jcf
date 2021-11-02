@@ -1,0 +1,61 @@
+
+# base16 Equilibrium Gray Light by Carlo Abelli
+
+.colors *
+
+-text		$474747/$f1f1f1
+-status		$5e5e5e/$d4d4d4
+-cursor		$f1f1f1/$474747
+-selection	/$d4d4d4
+-curlin		/$e2e2e2
+-linum		$777777/$e2e2e2
+-curlinum	$5e5e5e/$e2e2e2
+-menusel	$e2e2e2/$5e5e5e
+
+-term 0 	$f1f1f1
+-term 1 	$0073b5
+-term 2 	$637200
+-term 3 	$007a72
+-term 4 	$bf3e05
+-term 5 	$4e66b6
+-term 6 	$9d6f00
+-term 7 	$5e5e5e
+-term 8 	$777777
+-term 9 	$0073b5
+-term 10	$637200
+-term 11	$007a72
+-term 12	$d02023
+-term 13	$c42775
+-term 14	$9d6f00
+-term 15	$1b1b1b
+
+=Constant	$bf3e05
+=String		$637200
+=Escape		$007a72
+
+=Comment	$777777
+=StorageClass	+Type
+=Keyword	$4e66b6
+=Conditional	$4e66b6
+=Operator	$474747
+=Loop		$9d6f00
+=Statement	$d02023
+=Type		$9d6f00
+
+=DefinedIdent	$d02023
+=Label		$9d6f00
+=DefinedType	$9d6f00
+=Structure	$4e66b6
+
+=Preproc	$9d6f00
+=Include	$0073b5
+=Define		$4e66b6
+=TODO		$9d6f00/$e2e2e2
+=Precond	$4e66b6
+
+=diff.AddLine	$637200/$e2e2e2
+=diff.ChgLine	$777777/$e2e2e2
+=diff.DelLine	$d02023/$e2e2e2
+=diff.File	$d02023
+=diff.FileNew	$637200
+=diff.Hunk	$0073b5

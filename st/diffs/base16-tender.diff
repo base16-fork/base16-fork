@@ -1,0 +1,71 @@
+diff --git a/config.def.h b/config.def.h
+index 0e01717..c288227 100644
+--- a/config.def.h
++++ b/config.def.h
+@@ -82,33 +82,35 @@ char *termname = "st-256color";
+  */
+ unsigned int tabspaces = 8;
+ 
+-/* Terminal colors (16 first used in escape sequence) */
++/*
++ * Terminal colors (16 first used in escape sequence)
++ * Base16 st template by Daniel Mulford
++ * tender scheme by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
++ */
+ static const char *colorname[] = {
+-	/* 8 normal colors */
+-	"black",
+-	"red3",
+-	"green3",
+-	"yellow3",
+-	"blue2",
+-	"magenta3",
+-	"cyan3",
+-	"gray90",
++    /* 8 normal colors */
++	[0] = "#282828", /* black   */
++	[1] = "#f43753", /* red     */
++	[2] = "#c9d05c", /* green   */
++	[3] = "#ffc24b", /* yellow  */
++	[4] = "#b3deef", /* blue    */
++	[5] = "#d3b987", /* magenta */
++	[6] = "#73cef4", /* cyan    */
++	[7] = "#eeeeee", /* white   */
+ 
+ 	/* 8 bright colors */
+-	"gray50",
+-	"red",
+-	"green",
+-	"yellow",
+-	"#5c5cff",
+-	"magenta",
+-	"cyan",
+-	"white",
++	[8]  = "#4c4c4c", /* black   */
++	[9]  = "#f43753", /* red     */
++	[10] = "#c9d05c", /* green   */
++	[11] = "#ffc24b", /* yellow  */
++	[12] = "#b3deef", /* blue    */
++	[13] = "#d3b987", /* magenta */
++	[14] = "#73cef4", /* cyan    */
++	[15] = "#feffff", /* white   */
+ 
+ 	[255] = 0,
+ 
+ 	/* more colors can be added after 255 to use with DefaultXX */
+-	"#cccccc",
+-	"#555555",
+ };
+ 
+ 
+@@ -118,8 +120,8 @@ static const char *colorname[] = {
+  */
+ unsigned int defaultfg = 7;
+ unsigned int defaultbg = 0;
+-static unsigned int defaultcs = 256;
+-static unsigned int defaultrcs = 257;
++static unsigned int defaultcs = 7;
++static unsigned int defaultrcs = 0;
+ 
+ /*
+  * Default shape of cursor

@@ -1,0 +1,61 @@
+
+# base16 Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+.colors *
+
+-text		$b08ae6/$000000
+-status		$00ff00/$432d59
+-cursor		$000000/$b08ae6
+-selection	/$432d59
+-curlin		/$231a40
+-linum		$593380/$231a40
+-curlinum	$00ff00/$231a40
+-menusel	$231a40/$00ff00
+
+-term 0 	$000000
+-term 1 	$4136d9
+-term 2 	$4595e6
+-term 3 	$40dfff
+-term 4 	$bb66cc
+-term 5 	$7e5ce6
+-term 6 	$f29df2
+-term 7 	$00ff00
+-term 8 	$593380
+-term 9 	$4136d9
+-term 10	$4595e6
+-term 11	$40dfff
+-term 12	$a82ee6
+-term 13	$a886bf
+-term 14	$f29df2
+-term 15	$a366ff
+
+=Constant	$bb66cc
+=String		$4595e6
+=Escape		$40dfff
+
+=Comment	$593380
+=StorageClass	+Type
+=Keyword	$7e5ce6
+=Conditional	$7e5ce6
+=Operator	$b08ae6
+=Loop		$f29df2
+=Statement	$a82ee6
+=Type		$f29df2
+
+=DefinedIdent	$a82ee6
+=Label		$f29df2
+=DefinedType	$f29df2
+=Structure	$7e5ce6
+
+=Preproc	$f29df2
+=Include	$4136d9
+=Define		$7e5ce6
+=TODO		$f29df2/$231a40
+=Precond	$7e5ce6
+
+=diff.AddLine	$4595e6/$231a40
+=diff.ChgLine	$593380/$231a40
+=diff.DelLine	$a82ee6/$231a40
+=diff.File	$a82ee6
+=diff.FileNew	$4595e6
+=diff.Hunk	$4136d9

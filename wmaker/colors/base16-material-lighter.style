@@ -1,0 +1,24 @@
+{
+  HighlightColor = "#CCEAE7";
+  HighlightTextColor = "#80CBC4";
+  ClipTitleColor = "#80CBC4";
+  CClipTitleColor = "#CCD7DA";
+  FTitleColor = "#80CBC4";
+  PTitleColor = "#80CBC4";
+  UTitleColor = "#80CBC4";
+  FTitleBack = (solid, "#E7EAEC");
+  PTitleBack = (solid, "#FAFAFA");
+  UTitleBack = (solid, "#FAFAFA");
+  ResizebarBack = (solid, "#FAFAFA");
+  MenuTitleColor = "#80CBC4";
+  MenuTextColor = "#80CBC4";
+  MenuDisabledColor = "#CCD7DA";
+  MenuTitleBack = (solid, "#E7EAEC");
+  MenuTextBack = (solid, "#FAFAFA");
+  IconBack = (solid, "#E7EAEC");
+  IconTitleColor = "#80CBC4";
+  IconTitleBack = "#E7EAEC";
+  FrameBorderColor = "#FAFAFA";
+  FrameFocusedBorderColor = "#FAFAFA";
+  FrameSelectedBorderColor = "#CCEAE7";
+}

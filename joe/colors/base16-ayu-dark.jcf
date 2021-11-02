@@ -1,0 +1,61 @@
+
+# base16 Ayu Dark by Khue Nguyen <Z5483Y@gmail.com>
+
+.colors *
+
+-text		$E6E1CF/$0F1419
+-status		$BFBDB6/$272D38
+-cursor		$0F1419/$E6E1CF
+-selection	/$272D38
+-curlin		/$131721
+-linum		$3E4B59/$131721
+-curlinum	$BFBDB6/$131721
+-menusel	$131721/$BFBDB6
+
+-term 0 	$0F1419
+-term 1 	$59C2FF
+-term 2 	$B8CC52
+-term 3 	$95E6CB
+-term 4 	$FF8F40
+-term 5 	$D2A6FF
+-term 6 	$FFB454
+-term 7 	$BFBDB6
+-term 8 	$3E4B59
+-term 9 	$59C2FF
+-term 10	$B8CC52
+-term 11	$95E6CB
+-term 12	$F07178
+-term 13	$E6B673
+-term 14	$FFB454
+-term 15	$F3F4F5
+
+=Constant	$FF8F40
+=String		$B8CC52
+=Escape		$95E6CB
+
+=Comment	$3E4B59
+=StorageClass	+Type
+=Keyword	$D2A6FF
+=Conditional	$D2A6FF
+=Operator	$E6E1CF
+=Loop		$FFB454
+=Statement	$F07178
+=Type		$FFB454
+
+=DefinedIdent	$F07178
+=Label		$FFB454
+=DefinedType	$FFB454
+=Structure	$D2A6FF
+
+=Preproc	$FFB454
+=Include	$59C2FF
+=Define		$D2A6FF
+=TODO		$FFB454/$131721
+=Precond	$D2A6FF
+
+=diff.AddLine	$B8CC52/$131721
+=diff.ChgLine	$3E4B59/$131721
+=diff.DelLine	$F07178/$131721
+=diff.File	$F07178
+=diff.FileNew	$B8CC52
+=diff.Hunk	$59C2FF

@@ -1,0 +1,23 @@
+[Ayu Light]
+text=5C6773
+text(bold)=5C6773
+background=FAFAFA
+black=FAFAFA
+black(bold)=ABB0B6
+red=F07178
+red(bold)=FA8D3E
+green=86B300
+green(bold)=F3F4F5
+yellow=F2AE49
+yellow(bold)=F8F9FA
+blue=36A3D9
+blue(bold)=828C99
+magenta=A37ACC
+magenta(bold)=242936
+cyan=4CBF99
+cyan(bold)=E6BA7E
+white=5C6773
+white(bold)=1A1F29
+[Names]
+name0=Ayu Light
+count=1

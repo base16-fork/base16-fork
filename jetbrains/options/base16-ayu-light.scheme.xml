@@ -1,0 +1,8 @@
+<!--    Base16 Ayu Light
+        Author: Khue Nguyen <Z5483Y@gmail.com>   -->
+
+<application>
+  <component name="EditorColorsManagerImpl">
+    <global_color_scheme name="Base16 Ayu Light" />
+  </component>
+</application>

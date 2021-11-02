@@ -1,0 +1,61 @@
+
+# base16 PhD by Hennig Hasemann (http://leetless.de/vim.html)
+
+.colors *
+
+-text		$b8bbc2/$061229
+-status		$9a99a3/$4d5666
+-cursor		$061229/$b8bbc2
+-selection	/$4d5666
+-curlin		/$2a3448
+-linum		$717885/$2a3448
+-curlinum	$9a99a3/$2a3448
+-menusel	$2a3448/$9a99a3
+
+-term 0 	$061229
+-term 1 	$5299bf
+-term 2 	$99bf52
+-term 3 	$72b9bf
+-term 4 	$f0a000
+-term 5 	$9989cc
+-term 6 	$fbd461
+-term 7 	$9a99a3
+-term 8 	$717885
+-term 9 	$5299bf
+-term 10	$99bf52
+-term 11	$72b9bf
+-term 12	$d07346
+-term 13	$b08060
+-term 14	$fbd461
+-term 15	$ffffff
+
+=Constant	$f0a000
+=String		$99bf52
+=Escape		$72b9bf
+
+=Comment	$717885
+=StorageClass	+Type
+=Keyword	$9989cc
+=Conditional	$9989cc
+=Operator	$b8bbc2
+=Loop		$fbd461
+=Statement	$d07346
+=Type		$fbd461
+
+=DefinedIdent	$d07346
+=Label		$fbd461
+=DefinedType	$fbd461
+=Structure	$9989cc
+
+=Preproc	$fbd461
+=Include	$5299bf
+=Define		$9989cc
+=TODO		$fbd461/$2a3448
+=Precond	$9989cc
+
+=diff.AddLine	$99bf52/$2a3448
+=diff.ChgLine	$717885/$2a3448
+=diff.DelLine	$d07346/$2a3448
+=diff.File	$d07346
+=diff.FileNew	$99bf52
+=diff.Hunk	$5299bf

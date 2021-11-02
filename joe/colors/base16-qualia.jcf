@@ -1,0 +1,61 @@
+
+# base16 Qualia by isaacwhanson
+
+.colors *
+
+-text		$C0C0C0/$101010
+-status		$808080/$454545
+-cursor		$101010/$C0C0C0
+-selection	/$454545
+-curlin		/$454545
+-linum		$454545/$454545
+-curlinum	$808080/$454545
+-menusel	$454545/$808080
+
+-term 0 	$101010
+-term 1 	$50CACD
+-term 2 	$80C990
+-term 3 	$C8C874
+-term 4 	$A3B8EF
+-term 5 	$E0AF85
+-term 6 	$E6A3DC
+-term 7 	$808080
+-term 8 	$454545
+-term 9 	$50CACD
+-term 10	$80C990
+-term 11	$C8C874
+-term 12	$EFA6A2
+-term 13	$808080
+-term 14	$E6A3DC
+-term 15	$454545
+
+=Constant	$A3B8EF
+=String		$80C990
+=Escape		$C8C874
+
+=Comment	$454545
+=StorageClass	+Type
+=Keyword	$E0AF85
+=Conditional	$E0AF85
+=Operator	$C0C0C0
+=Loop		$E6A3DC
+=Statement	$EFA6A2
+=Type		$E6A3DC
+
+=DefinedIdent	$EFA6A2
+=Label		$E6A3DC
+=DefinedType	$E6A3DC
+=Structure	$E0AF85
+
+=Preproc	$E6A3DC
+=Include	$50CACD
+=Define		$E0AF85
+=TODO		$E6A3DC/$454545
+=Precond	$E0AF85
+
+=diff.AddLine	$80C990/$454545
+=diff.ChgLine	$454545/$454545
+=diff.DelLine	$EFA6A2/$454545
+=diff.File	$EFA6A2
+=diff.FileNew	$80C990
+=diff.Hunk	$50CACD

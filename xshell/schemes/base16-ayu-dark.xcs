@@ -1,0 +1,23 @@
+[Ayu Dark]
+text=E6E1CF
+text(bold)=E6E1CF
+background=0F1419
+black=0F1419
+black(bold)=3E4B59
+red=F07178
+red(bold)=FF8F40
+green=B8CC52
+green(bold)=131721
+yellow=FFB454
+yellow(bold)=272D38
+blue=59C2FF
+blue(bold)=BFBDB6
+magenta=D2A6FF
+magenta(bold)=E6E1CF
+cyan=95E6CB
+cyan(bold)=E6B673
+white=E6E1CF
+white(bold)=F3F4F5
+[Names]
+name0=Ayu Dark
+count=1

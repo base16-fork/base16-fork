@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Base16 DanQing">
+  <!--
+  base16-qtcreator (https://github.com/ilpianista/base16-qtcreator)
+  by Chris Kempson (http://chriskempson.com)
+  DanQing scheme by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+  -->
+
+  <!-- main colors, skipping one of attributes (backgroud/foreground) will use color from here -->
+  <style name="Text" foreground="#e0f0eF" background="#2d302f"/>
+
+  <!-- it will be underlined by default -->
+  <style name="Link"/>
+
+  <!-- selection, current line, search, matching brackets -->
+  <style name="Selection" background="#5a605d"/>
+  <style name="CurrentLine" background="#9da8a3"/>
+  <style name="LineNumber" foreground="#9da8a3"/>
+  <style name="CurrentLineNumber" foreground="#cad8d2" bold="true"/>
+  <style name="SearchResult" background="#434846"/>
+  <style name="Parentheses" background="#5a605d" />
+  <style name="ParenthesesMismatch" background="#CCA4E3" />
+
+  <!-- Selection whilst searching in it -->
+  <style name="SearchScope" foreground="#fcfefd" background="#9da8a3"/>
+
+  <!-- word (symbol) under cursor: background - color of marking frame, foreground - ignored -->
+  <style name="Occurrences" background="#9da8a3"/>
+  <style name="Occurrences.Rename" background="#cad8d2"/>
+  <!-- unused variable: foreground - color of underlining -->
+  <style name="Occurrences.Unused" foreground="#B38A61"/>
+
+  <!-- language primitives -->
+  <style name="Number" foreground="#B38A61"/>
+  <style name="String" foreground="#8AB361"/>
+  <style name="Keyword" foreground="#CCA4E3"/>
+  <style name="Operator" foreground="#e0f0eF"/>
+  <style name="Preprocessor" foreground="#B0A4E3"/>
+  <style name="Label" foreground="#F9906F"/>
+
+  <!-- types, classes -->
+  <style name="Type" foreground="#F0C239"/>
+  <style name="PrimitiveType" foreground="#CCA4E3"/>
+
+  <!-- functions, methods -->
+  <style name="Function" foreground="#B0A4E3"/>
+  <style name="VirtualMethod" foreground="#B0A4E3" italic="true"/>
+
+  <!-- variables -->
+  <style name="Field" foreground="#ecf6f2"/>
+  <style name="Local" foreground="#e0f0eF"/>
+  <style name="Global" foreground="#e0f0eF"/>
+  <style name="Static" foreground="#e0f0eF"/>
+  <style name="JsScopeVar" foreground="#e0f0eF" italic="true"/>
+  <style name="JsImportVar" foreground="#e0f0eF" italic="true"/>
+  <style name="JsGlobalVar" foreground="#e0f0eF" italic="true"/>
+
+  <!-- whitespace -->
+  <style name="VisualWhitespace" foreground="#5a605d"/>
+
+  <!-- comments -->
+  <style name="Comment" foreground="#9da8a3"/>
+  <style name="DisabledCode" foreground="#9da8a3"/>
+  <style name="Doxygen.Comment" foreground="#9da8a3"/>
+  <style name="Doxygen.Tag" foreground="#9da8a3"/>
+
+  <!-- QML -->
+  <style name="QmlTypeId" foreground="#CCA4E3"/>
+  <style name="Binding" foreground="#F9906F"/>
+  <style name="QmlExternalId" foreground="#B0A4E3" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#B0A4E3" italic="true"/>
+  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlStateName" italic="true"/>
+
+  <!-- inline diff -->
+  <style name="DiffFile" foreground="#CCA4E3"/>
+  <style name="DiffLocation" foreground="#B0A4E3"/>
+  <style name="AddedLine" foreground="#8AB361"/>
+  <style name="RemovedLine" foreground="#F0C239"/>
+  <style name="LogChangeLine" foreground="#F9906F"/>
+
+  <!-- side-by-side diff -->
+  <style name="DiffFileLine" foreground="#CCA4E3"/>
+  <style name="DiffContextLine" foreground="#B0A4E3"/>
+  <style name="DiffSourceLine" foreground="#8AB361"/>
+  <style name="DiffSourceChar" foreground="#F0C239" background="#434846"/>
+  <style name="DiffDestLine" foreground="#8AB361"/>
+  <style name="DiffDestChar" foreground="#F0C239" background="#434846"/>
+
+  <!-- errors, warnings -->
+  <style name="Error" underlineColor="#F9906F" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#F9906F" underlineStyle="DotLine"/>
+  <style name="Warning" underlineColor="#F0C239" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#F0C239" underlineStyle="DotLine"/>
+</style-scheme>

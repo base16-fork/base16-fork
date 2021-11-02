@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Humanoid light (https://github.com/chriskempson/base16)
+; Scheme: Thomas (tasmo) Friese
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00f2f8f8 ; base00
+"ColorTable01"=dword:00c98200 ; base0D
+"ColorTable02"=dword:003c8e38 ; base0B
+"ColorTable03"=dword:008e8e00 ; base0C
+"ColorTable04"=dword:001a15b0 ; base08
+"ColorTable05"=dword:00980f70 ; base0E
+"ColorTable06"=dword:00003dff ; base09
+"ColorTable07"=dword:00292623 ; base05
+"ColorTable08"=dword:00bdc0c0 ; base03
+"ColorTable09"=dword:00e9efef ; base01
+"ColorTable10"=dword:00d8dede ; base02
+"ColorTable11"=dword:00bdc0c0 ; base03
+"ColorTable12"=dword:005d6160 ; base04
+"ColorTable13"=dword:00292623 ; base05
+"ColorTable14"=dword:0037332f ; base06
+"ColorTable15"=dword:00080707 ; base07

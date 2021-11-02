@@ -1,0 +1,61 @@
+
+# base16 Pico by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+.colors *
+
+-text		$5f574f/$000000
+-status		$ab5236/$7e2553
+-cursor		$000000/$5f574f
+-selection	/$7e2553
+-curlin		/$1d2b53
+-linum		$008751/$1d2b53
+-curlinum	$ab5236/$1d2b53
+-menusel	$1d2b53/$ab5236
+
+-term 0 	$000000
+-term 1 	$83769c
+-term 2 	$00e756
+-term 3 	$29adff
+-term 4 	$ffa300
+-term 5 	$ff77a8
+-term 6 	$fff024
+-term 7 	$ab5236
+-term 8 	$008751
+-term 9 	$83769c
+-term 10	$00e756
+-term 11	$29adff
+-term 12	$ff004d
+-term 13	$ffccaa
+-term 14	$fff024
+-term 15	$fff1e8
+
+=Constant	$ffa300
+=String		$00e756
+=Escape		$29adff
+
+=Comment	$008751
+=StorageClass	+Type
+=Keyword	$ff77a8
+=Conditional	$ff77a8
+=Operator	$5f574f
+=Loop		$fff024
+=Statement	$ff004d
+=Type		$fff024
+
+=DefinedIdent	$ff004d
+=Label		$fff024
+=DefinedType	$fff024
+=Structure	$ff77a8
+
+=Preproc	$fff024
+=Include	$83769c
+=Define		$ff77a8
+=TODO		$fff024/$1d2b53
+=Precond	$ff77a8
+
+=diff.AddLine	$00e756/$1d2b53
+=diff.ChgLine	$008751/$1d2b53
+=diff.DelLine	$ff004d/$1d2b53
+=diff.File	$ff004d
+=diff.FileNew	$00e756
+=diff.Hunk	$83769c

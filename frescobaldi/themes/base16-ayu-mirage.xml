@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Ayu Mirage">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Khue Nguyen <Z5483Y@gmail.com>
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#CCCAC2" />
+    <background color="#171B24" />
+    <selectiontext color="#D9D7CE" />
+    <selectionbackground color="#707A8C" />
+    <current color="#1F2430" />
+    <mark color="#242936" />
+    <error color="#1F2430" />
+    <search color="#" />
+    <match color="#8A9199" />
+    <paper color="#1F2430" />
+    <musichighlight color="#707A8C" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F28779" />
+    <escape textColor="#FFAD66" />
+    <comment italic="True" textColor="#707A8C" />
+    <value textColor="#FFD173" />
+    <variable textColor="#D5FF80" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#5CCFE6" />
+    <error textColor="#D4BFFF" underline="True" underlineColor="#D4BFFF" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FFAD66" />
+      <dynamic bold="True" textColor="#5CCFE6" />
+      <articulation bold="True" textColor="#FFAD66" />
+      <fingering textColor="#D5FF80" />
+      <stringnumber textColor="#FFAD66" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#FFD173" />
+      <lyricmode textColor="#5CCFE6" />
+      <lyrictext textColor="#CCCAC2" />
+      <context bold="True" />
+      <grob textColor="#CCCAC2" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

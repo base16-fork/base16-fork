@@ -1,0 +1,61 @@
+
+# base16 Windows NT Light by Fergus Collins (https://github.com/C-Fergus)
+
+.colors *
+
+-text		$808080/$ffffff
+-status		$a0a0a0/$d5d5d5
+-cursor		$ffffff/$808080
+-selection	/$d5d5d5
+-curlin		/$eaeaea
+-linum		$c0c0c0/$eaeaea
+-curlinum	$a0a0a0/$eaeaea
+-menusel	$eaeaea/$a0a0a0
+
+-term 0 	$ffffff
+-term 1 	$000080
+-term 2 	$008000
+-term 3 	$008080
+-term 4 	$ffff00
+-term 5 	$800080
+-term 6 	$808000
+-term 7 	$a0a0a0
+-term 8 	$c0c0c0
+-term 9 	$000080
+-term 10	$008000
+-term 11	$008080
+-term 12	$800000
+-term 13	$00ff00
+-term 14	$808000
+-term 15	$000000
+
+=Constant	$ffff00
+=String		$008000
+=Escape		$008080
+
+=Comment	$c0c0c0
+=StorageClass	+Type
+=Keyword	$800080
+=Conditional	$800080
+=Operator	$808080
+=Loop		$808000
+=Statement	$800000
+=Type		$808000
+
+=DefinedIdent	$800000
+=Label		$808000
+=DefinedType	$808000
+=Structure	$800080
+
+=Preproc	$808000
+=Include	$000080
+=Define		$800080
+=TODO		$808000/$eaeaea
+=Precond	$800080
+
+=diff.AddLine	$008000/$eaeaea
+=diff.ChgLine	$c0c0c0/$eaeaea
+=diff.DelLine	$800000/$eaeaea
+=diff.File	$800000
+=diff.FileNew	$008000
+=diff.Hunk	$000080

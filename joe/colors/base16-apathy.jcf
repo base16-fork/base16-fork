@@ -1,0 +1,61 @@
+
+# base16 Apathy by Jannik Siebert (https://github.com/janniks)
+
+.colors *
+
+-text		$81B5AC/$031A16
+-status		$5F9C92/$184E45
+-cursor		$031A16/$81B5AC
+-selection	/$184E45
+-curlin		/$0B342D
+-linum		$2B685E/$0B342D
+-curlinum	$5F9C92/$0B342D
+-menusel	$0B342D/$5F9C92
+
+-term 0 	$031A16
+-term 1 	$96883E
+-term 2 	$883E96
+-term 3 	$963E4C
+-term 4 	$3E7996
+-term 5 	$4C963E
+-term 6 	$3E4C96
+-term 7 	$5F9C92
+-term 8 	$2B685E
+-term 9 	$96883E
+-term 10	$883E96
+-term 11	$963E4C
+-term 12	$3E9688
+-term 13	$3E965B
+-term 14	$3E4C96
+-term 15	$D2E7E4
+
+=Constant	$3E7996
+=String		$883E96
+=Escape		$963E4C
+
+=Comment	$2B685E
+=StorageClass	+Type
+=Keyword	$4C963E
+=Conditional	$4C963E
+=Operator	$81B5AC
+=Loop		$3E4C96
+=Statement	$3E9688
+=Type		$3E4C96
+
+=DefinedIdent	$3E9688
+=Label		$3E4C96
+=DefinedType	$3E4C96
+=Structure	$4C963E
+
+=Preproc	$3E4C96
+=Include	$96883E
+=Define		$4C963E
+=TODO		$3E4C96/$0B342D
+=Precond	$4C963E
+
+=diff.AddLine	$883E96/$0B342D
+=diff.ChgLine	$2B685E/$0B342D
+=diff.DelLine	$3E9688/$0B342D
+=diff.File	$3E9688
+=diff.FileNew	$883E96
+=diff.Hunk	$96883E

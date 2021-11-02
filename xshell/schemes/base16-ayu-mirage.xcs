@@ -1,0 +1,23 @@
+[Ayu Mirage]
+text=CCCAC2
+text(bold)=CCCAC2
+background=171B24
+black=171B24
+black(bold)=707A8C
+red=F28779
+red(bold)=FFAD66
+green=D5FF80
+green(bold)=1F2430
+yellow=FFD173
+yellow(bold)=242936
+blue=5CCFE6
+blue(bold)=8A9199
+magenta=D4BFFF
+magenta(bold)=D9D7CE
+cyan=95E6CB
+cyan(bold)=F29E74
+white=CCCAC2
+white(bold)=F3F4F5
+[Names]
+name0=Ayu Mirage
+count=1

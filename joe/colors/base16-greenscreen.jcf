@@ -1,0 +1,61 @@
+
+# base16 Green Screen by Chris Kempson (http://chriskempson.com)
+
+.colors *
+
+-text		$00bb00/$001100
+-status		$009900/$005500
+-cursor		$001100/$00bb00
+-selection	/$005500
+-curlin		/$003300
+-linum		$007700/$003300
+-curlinum	$009900/$003300
+-menusel	$003300/$009900
+
+-term 0 	$001100
+-term 1 	$009900
+-term 2 	$00bb00
+-term 3 	$005500
+-term 4 	$009900
+-term 5 	$00bb00
+-term 6 	$007700
+-term 7 	$009900
+-term 8 	$007700
+-term 9 	$009900
+-term 10	$00bb00
+-term 11	$005500
+-term 12	$007700
+-term 13	$005500
+-term 14	$007700
+-term 15	$00ff00
+
+=Constant	$009900
+=String		$00bb00
+=Escape		$005500
+
+=Comment	$007700
+=StorageClass	+Type
+=Keyword	$00bb00
+=Conditional	$00bb00
+=Operator	$00bb00
+=Loop		$007700
+=Statement	$007700
+=Type		$007700
+
+=DefinedIdent	$007700
+=Label		$007700
+=DefinedType	$007700
+=Structure	$00bb00
+
+=Preproc	$007700
+=Include	$009900
+=Define		$00bb00
+=TODO		$007700/$003300
+=Precond	$00bb00
+
+=diff.AddLine	$00bb00/$003300
+=diff.ChgLine	$007700/$003300
+=diff.DelLine	$007700/$003300
+=diff.File	$007700
+=diff.FileNew	$00bb00
+=diff.Hunk	$009900

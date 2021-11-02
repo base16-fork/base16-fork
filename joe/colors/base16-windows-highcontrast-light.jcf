@@ -1,0 +1,61 @@
+
+# base16 Windows High Contrast Light by Fergus Collins (https://github.com/C-Fergus)
+
+.colors *
+
+-text		$545454/$fcfcfc
+-status		$7e7e7e/$d4d4d4
+-cursor		$fcfcfc/$545454
+-selection	/$d4d4d4
+-curlin		/$e8e8e8
+-linum		$c0c0c0/$e8e8e8
+-curlinum	$7e7e7e/$e8e8e8
+-menusel	$e8e8e8/$7e7e7e
+
+-term 0 	$fcfcfc
+-term 1 	$000080
+-term 2 	$008000
+-term 3 	$008080
+-term 4 	$fcfc54
+-term 5 	$800080
+-term 6 	$808000
+-term 7 	$7e7e7e
+-term 8 	$c0c0c0
+-term 9 	$000080
+-term 10	$008000
+-term 11	$008080
+-term 12	$800000
+-term 13	$54fc54
+-term 14	$808000
+-term 15	$000000
+
+=Constant	$fcfc54
+=String		$008000
+=Escape		$008080
+
+=Comment	$c0c0c0
+=StorageClass	+Type
+=Keyword	$800080
+=Conditional	$800080
+=Operator	$545454
+=Loop		$808000
+=Statement	$800000
+=Type		$808000
+
+=DefinedIdent	$800000
+=Label		$808000
+=DefinedType	$808000
+=Structure	$800080
+
+=Preproc	$808000
+=Include	$000080
+=Define		$800080
+=TODO		$808000/$e8e8e8
+=Precond	$800080
+
+=diff.AddLine	$008000/$e8e8e8
+=diff.ChgLine	$c0c0c0/$e8e8e8
+=diff.DelLine	$800000/$e8e8e8
+=diff.File	$800000
+=diff.FileNew	$008000
+=diff.Hunk	$000080

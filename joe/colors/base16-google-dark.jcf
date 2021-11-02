@@ -1,0 +1,61 @@
+
+# base16 Google Dark by Seth Wright (http://sethawright.com)
+
+.colors *
+
+-text		$c5c8c6/$1d1f21
+-status		$b4b7b4/$373b41
+-cursor		$1d1f21/$c5c8c6
+-selection	/$373b41
+-curlin		/$282a2e
+-linum		$969896/$282a2e
+-curlinum	$b4b7b4/$282a2e
+-menusel	$282a2e/$b4b7b4
+
+-term 0 	$1d1f21
+-term 1 	$3971ED
+-term 2 	$198844
+-term 3 	$3971ED
+-term 4 	$F96A38
+-term 5 	$A36AC7
+-term 6 	$FBA922
+-term 7 	$b4b7b4
+-term 8 	$969896
+-term 9 	$3971ED
+-term 10	$198844
+-term 11	$3971ED
+-term 12	$CC342B
+-term 13	$3971ED
+-term 14	$FBA922
+-term 15	$ffffff
+
+=Constant	$F96A38
+=String		$198844
+=Escape		$3971ED
+
+=Comment	$969896
+=StorageClass	+Type
+=Keyword	$A36AC7
+=Conditional	$A36AC7
+=Operator	$c5c8c6
+=Loop		$FBA922
+=Statement	$CC342B
+=Type		$FBA922
+
+=DefinedIdent	$CC342B
+=Label		$FBA922
+=DefinedType	$FBA922
+=Structure	$A36AC7
+
+=Preproc	$FBA922
+=Include	$3971ED
+=Define		$A36AC7
+=TODO		$FBA922/$282a2e
+=Precond	$A36AC7
+
+=diff.AddLine	$198844/$282a2e
+=diff.ChgLine	$969896/$282a2e
+=diff.DelLine	$CC342B/$282a2e
+=diff.File	$CC342B
+=diff.FileNew	$198844
+=diff.Hunk	$3971ED

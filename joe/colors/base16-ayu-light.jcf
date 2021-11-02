@@ -1,0 +1,61 @@
+
+# base16 Ayu Light by Khue Nguyen <Z5483Y@gmail.com>
+
+.colors *
+
+-text		$5C6773/$FAFAFA
+-status		$828C99/$F8F9FA
+-cursor		$FAFAFA/$5C6773
+-selection	/$F8F9FA
+-curlin		/$F3F4F5
+-linum		$ABB0B6/$F3F4F5
+-curlinum	$828C99/$F3F4F5
+-menusel	$F3F4F5/$828C99
+
+-term 0 	$FAFAFA
+-term 1 	$36A3D9
+-term 2 	$86B300
+-term 3 	$4CBF99
+-term 4 	$FA8D3E
+-term 5 	$A37ACC
+-term 6 	$F2AE49
+-term 7 	$828C99
+-term 8 	$ABB0B6
+-term 9 	$36A3D9
+-term 10	$86B300
+-term 11	$4CBF99
+-term 12	$F07178
+-term 13	$E6BA7E
+-term 14	$F2AE49
+-term 15	$1A1F29
+
+=Constant	$FA8D3E
+=String		$86B300
+=Escape		$4CBF99
+
+=Comment	$ABB0B6
+=StorageClass	+Type
+=Keyword	$A37ACC
+=Conditional	$A37ACC
+=Operator	$5C6773
+=Loop		$F2AE49
+=Statement	$F07178
+=Type		$F2AE49
+
+=DefinedIdent	$F07178
+=Label		$F2AE49
+=DefinedType	$F2AE49
+=Structure	$A37ACC
+
+=Preproc	$F2AE49
+=Include	$36A3D9
+=Define		$A37ACC
+=TODO		$F2AE49/$F3F4F5
+=Precond	$A37ACC
+
+=diff.AddLine	$86B300/$F3F4F5
+=diff.ChgLine	$ABB0B6/$F3F4F5
+=diff.DelLine	$F07178/$F3F4F5
+=diff.File	$F07178
+=diff.FileNew	$86B300
+=diff.Hunk	$36A3D9

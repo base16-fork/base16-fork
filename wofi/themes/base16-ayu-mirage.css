@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Ayu Mirage scheme by Khue Nguyen <Z5483Y@gmail.com> */
+
+window {
+	background-color: #171B24;
+	color: #CCCAC2;
+}
+
+#entry:nth-child(odd) {
+	background-color: #171B24;
+}
+
+#entry:nth-child(even) {
+	background-color: #1F2430;
+}
+
+#entry:selected {
+	background-color: #242936;
+}
+
+#input {
+	background-color: #1F2430;
+	color: #8A9199;
+	border-color: #242936; 
+}
+
+#input:focus {
+	border-color: #FFD173; 
+}

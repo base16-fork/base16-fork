@@ -1,0 +1,61 @@
+
+# base16 Equilibrium Gray Dark by Carlo Abelli
+
+.colors *
+
+-text		$ababab/$111111
+-status		$919191/$262626
+-cursor		$111111/$ababab
+-selection	/$262626
+-curlin		/$1b1b1b
+-linum		$777777/$1b1b1b
+-curlinum	$919191/$1b1b1b
+-menusel	$1b1b1b/$919191
+
+-term 0 	$111111
+-term 1 	$008dd1
+-term 2 	$7f8b00
+-term 3 	$00948b
+-term 4 	$df5923
+-term 5 	$6a7fd2
+-term 6 	$bb8801
+-term 7 	$919191
+-term 8 	$777777
+-term 9 	$008dd1
+-term 10	$7f8b00
+-term 11	$00948b
+-term 12	$f04339
+-term 13	$e3488e
+-term 14	$bb8801
+-term 15	$e2e2e2
+
+=Constant	$df5923
+=String		$7f8b00
+=Escape		$00948b
+
+=Comment	$777777
+=StorageClass	+Type
+=Keyword	$6a7fd2
+=Conditional	$6a7fd2
+=Operator	$ababab
+=Loop		$bb8801
+=Statement	$f04339
+=Type		$bb8801
+
+=DefinedIdent	$f04339
+=Label		$bb8801
+=DefinedType	$bb8801
+=Structure	$6a7fd2
+
+=Preproc	$bb8801
+=Include	$008dd1
+=Define		$6a7fd2
+=TODO		$bb8801/$1b1b1b
+=Precond	$6a7fd2
+
+=diff.AddLine	$7f8b00/$1b1b1b
+=diff.ChgLine	$777777/$1b1b1b
+=diff.DelLine	$f04339/$1b1b1b
+=diff.File	$f04339
+=diff.FileNew	$7f8b00
+=diff.Hunk	$008dd1

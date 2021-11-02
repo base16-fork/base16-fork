@@ -1,0 +1,61 @@
+
+# base16 Apprentice by romainl
+
+.colors *
+
+-text		$BCBCBC/$262626
+-status		$787878/$333333
+-cursor		$262626/$BCBCBC
+-selection	/$333333
+-curlin		/$303030
+-linum		$6C6C6C/$303030
+-curlinum	$787878/$303030
+-menusel	$303030/$787878
+
+-term 0 	$262626
+-term 1 	$FFFFAF
+-term 2 	$87AF87
+-term 3 	$5F875F
+-term 4 	$FF8700
+-term 5 	$87AFD7
+-term 6 	$5F8787
+-term 7 	$787878
+-term 8 	$6C6C6C
+-term 9 	$FFFFAF
+-term 10	$87AF87
+-term 11	$5F875F
+-term 12	$5F8787
+-term 13	$5F87AF
+-term 14	$5F8787
+-term 15	$FFFFFF
+
+=Constant	$FF8700
+=String		$87AF87
+=Escape		$5F875F
+
+=Comment	$6C6C6C
+=StorageClass	+Type
+=Keyword	$87AFD7
+=Conditional	$87AFD7
+=Operator	$BCBCBC
+=Loop		$5F8787
+=Statement	$5F8787
+=Type		$5F8787
+
+=DefinedIdent	$5F8787
+=Label		$5F8787
+=DefinedType	$5F8787
+=Structure	$87AFD7
+
+=Preproc	$5F8787
+=Include	$FFFFAF
+=Define		$87AFD7
+=TODO		$5F8787/$303030
+=Precond	$87AFD7
+
+=diff.AddLine	$87AF87/$303030
+=diff.ChgLine	$6C6C6C/$303030
+=diff.DelLine	$5F8787/$303030
+=diff.File	$5F8787
+=diff.FileNew	$87AF87
+=diff.Hunk	$FFFFAF

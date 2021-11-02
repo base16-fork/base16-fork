@@ -1,0 +1,23 @@
+[Solar Flare Light]
+text=586875
+text(bold)=586875
+background=F5F7FA
+black=F5F7FA
+black(bold)=85939E
+red=EF5253
+red(bold)=E66B2B
+green=7CC844
+green(bold)=E8E9ED
+yellow=E4B51C
+yellow(bold)=A6AFB8
+blue=33B5E1
+blue(bold)=667581
+magenta=A363D5
+magenta(bold)=222E38
+cyan=52CBB0
+cyan(bold)=D73C9A
+white=586875
+white(bold)=18262F
+[Names]
+name0=Solar Flare Light
+count=1

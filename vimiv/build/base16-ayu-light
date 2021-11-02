@@ -1,0 +1,31 @@
+; base16-ayu-light
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: Khue Nguyen <Z5483Y@gmail.com>
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #FAFAFA
+base01 = #F3F4F5
+base02 = #F8F9FA
+base03 = #ABB0B6
+base04 = #828C99
+base05 = #5C6773
+base06 = #242936
+base07 = #1A1F29
+base08 = #F07178
+base09 = #FA8D3E
+base0a = #F2AE49
+base0b = #86B300
+base0c = #4CBF99
+base0d = #36A3D9
+base0e = #A37ACC
+base0f = #E6BA7E
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

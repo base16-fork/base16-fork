@@ -1,0 +1,23 @@
+[Silk Dark]
+text=C7DBDD
+text(bold)=C7DBDD
+background=0e3c46
+black=0e3c46
+black(bold)=587073
+red=fb6953
+red(bold)=fcab74
+green=73d8ad
+green(bold)=1D494E
+yellow=fce380
+yellow(bold)=2A5054
+blue=46bddd
+blue(bold)=9DC8CD
+magenta=756b8a
+magenta(bold)=CBF2F7
+cyan=3fb2b9
+cyan(bold)=9b647b
+white=C7DBDD
+white(bold)=D2FAFF
+[Names]
+name0=Silk Dark
+count=1

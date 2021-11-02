@@ -1,0 +1,61 @@
+
+# base16 Chalk by Chris Kempson (http://chriskempson.com)
+
+.colors *
+
+-text		$d0d0d0/$151515
+-status		$b0b0b0/$303030
+-cursor		$151515/$d0d0d0
+-selection	/$303030
+-curlin		/$202020
+-linum		$505050/$202020
+-curlinum	$b0b0b0/$202020
+-menusel	$202020/$b0b0b0
+
+-term 0 	$151515
+-term 1 	$6fc2ef
+-term 2 	$acc267
+-term 3 	$12cfc0
+-term 4 	$eda987
+-term 5 	$e1a3ee
+-term 6 	$ddb26f
+-term 7 	$b0b0b0
+-term 8 	$505050
+-term 9 	$6fc2ef
+-term 10	$acc267
+-term 11	$12cfc0
+-term 12	$fb9fb1
+-term 13	$deaf8f
+-term 14	$ddb26f
+-term 15	$f5f5f5
+
+=Constant	$eda987
+=String		$acc267
+=Escape		$12cfc0
+
+=Comment	$505050
+=StorageClass	+Type
+=Keyword	$e1a3ee
+=Conditional	$e1a3ee
+=Operator	$d0d0d0
+=Loop		$ddb26f
+=Statement	$fb9fb1
+=Type		$ddb26f
+
+=DefinedIdent	$fb9fb1
+=Label		$ddb26f
+=DefinedType	$ddb26f
+=Structure	$e1a3ee
+
+=Preproc	$ddb26f
+=Include	$6fc2ef
+=Define		$e1a3ee
+=TODO		$ddb26f/$202020
+=Precond	$e1a3ee
+
+=diff.AddLine	$acc267/$202020
+=diff.ChgLine	$505050/$202020
+=diff.DelLine	$fb9fb1/$202020
+=diff.File	$fb9fb1
+=diff.FileNew	$acc267
+=diff.Hunk	$6fc2ef

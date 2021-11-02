@@ -1,0 +1,22 @@
+{
+    "name": "base16-ayu-mirage",
+    "background": "#171B24",
+    "selectionBackground": "#242936",
+    "black": "#171B24",
+    "blue": "#5CCFE6",
+    "brightBlack": "#707A8C",
+    "brightBlue": "#8A9199",
+    "brightCyan": "#F29E74",
+    "brightGreen": "#1F2430",
+    "brightPurple": "#D9D7CE",
+    "brightRed": "#FFAD66",
+    "brightWhite": "#F3F4F5",
+    "brightYellow": "#242936",
+    "cyan": "#95E6CB",
+    "foreground": "#CCCAC2",
+    "green": "#D5FF80",
+    "purple": "#D4BFFF",
+    "red": "#F28779",
+    "white": "#CCCAC2",
+    "yellow": "#FFD173"
+}

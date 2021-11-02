@@ -1,0 +1,61 @@
+
+# base16 Tango by @Schnouki, based on the Tango Desktop Project
+
+.colors *
+
+-text		$d3d7cf/$2e3436
+-status		$729fcf/$fce94f
+-cursor		$2e3436/$d3d7cf
+-selection	/$fce94f
+-curlin		/$8ae234
+-linum		$555753/$8ae234
+-curlinum	$729fcf/$8ae234
+-menusel	$8ae234/$729fcf
+
+-term 0 	$2e3436
+-term 1 	$3465a4
+-term 2 	$4e9a06
+-term 3 	$06989a
+-term 4 	$ef2929
+-term 5 	$75507b
+-term 6 	$c4a000
+-term 7 	$729fcf
+-term 8 	$555753
+-term 9 	$3465a4
+-term 10	$4e9a06
+-term 11	$06989a
+-term 12	$cc0000
+-term 13	$34e2e2
+-term 14	$c4a000
+-term 15	$eeeeec
+
+=Constant	$ef2929
+=String		$4e9a06
+=Escape		$06989a
+
+=Comment	$555753
+=StorageClass	+Type
+=Keyword	$75507b
+=Conditional	$75507b
+=Operator	$d3d7cf
+=Loop		$c4a000
+=Statement	$cc0000
+=Type		$c4a000
+
+=DefinedIdent	$cc0000
+=Label		$c4a000
+=DefinedType	$c4a000
+=Structure	$75507b
+
+=Preproc	$c4a000
+=Include	$3465a4
+=Define		$75507b
+=TODO		$c4a000/$8ae234
+=Precond	$75507b
+
+=diff.AddLine	$4e9a06/$8ae234
+=diff.ChgLine	$555753/$8ae234
+=diff.DelLine	$cc0000/$8ae234
+=diff.File	$cc0000
+=diff.FileNew	$4e9a06
+=diff.Hunk	$3465a4

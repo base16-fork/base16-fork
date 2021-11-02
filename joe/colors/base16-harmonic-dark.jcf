@@ -1,0 +1,61 @@
+
+# base16 Harmonic16 Dark by Jannik Siebert (https://github.com/janniks)
+
+.colors *
+
+-text		$cbd6e2/$0b1c2c
+-status		$aabcce/$405c79
+-cursor		$0b1c2c/$cbd6e2
+-selection	/$405c79
+-curlin		/$223b54
+-linum		$627e99/$223b54
+-curlinum	$aabcce/$223b54
+-menusel	$223b54/$aabcce
+
+-term 0 	$0b1c2c
+-term 1 	$8b56bf
+-term 2 	$56bf8b
+-term 3 	$568bbf
+-term 4 	$bfbf56
+-term 5 	$bf568b
+-term 6 	$8bbf56
+-term 7 	$aabcce
+-term 8 	$627e99
+-term 9 	$8b56bf
+-term 10	$56bf8b
+-term 11	$568bbf
+-term 12	$bf8b56
+-term 13	$bf5656
+-term 14	$8bbf56
+-term 15	$f7f9fb
+
+=Constant	$bfbf56
+=String		$56bf8b
+=Escape		$568bbf
+
+=Comment	$627e99
+=StorageClass	+Type
+=Keyword	$bf568b
+=Conditional	$bf568b
+=Operator	$cbd6e2
+=Loop		$8bbf56
+=Statement	$bf8b56
+=Type		$8bbf56
+
+=DefinedIdent	$bf8b56
+=Label		$8bbf56
+=DefinedType	$8bbf56
+=Structure	$bf568b
+
+=Preproc	$8bbf56
+=Include	$8b56bf
+=Define		$bf568b
+=TODO		$8bbf56/$223b54
+=Precond	$bf568b
+
+=diff.AddLine	$56bf8b/$223b54
+=diff.ChgLine	$627e99/$223b54
+=diff.DelLine	$bf8b56/$223b54
+=diff.File	$bf8b56
+=diff.FileNew	$56bf8b
+=diff.Hunk	$8b56bf

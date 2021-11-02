@@ -1,0 +1,61 @@
+
+# base16 Pop by Chris Kempson (http://chriskempson.com)
+
+.colors *
+
+-text		$d0d0d0/$000000
+-status		$b0b0b0/$303030
+-cursor		$000000/$d0d0d0
+-selection	/$303030
+-curlin		/$202020
+-linum		$505050/$202020
+-curlinum	$b0b0b0/$202020
+-menusel	$202020/$b0b0b0
+
+-term 0 	$000000
+-term 1 	$0e5a94
+-term 2 	$37b349
+-term 3 	$00aabb
+-term 4 	$f29333
+-term 5 	$b31e8d
+-term 6 	$f8ca12
+-term 7 	$b0b0b0
+-term 8 	$505050
+-term 9 	$0e5a94
+-term 10	$37b349
+-term 11	$00aabb
+-term 12	$eb008a
+-term 13	$7a2d00
+-term 14	$f8ca12
+-term 15	$ffffff
+
+=Constant	$f29333
+=String		$37b349
+=Escape		$00aabb
+
+=Comment	$505050
+=StorageClass	+Type
+=Keyword	$b31e8d
+=Conditional	$b31e8d
+=Operator	$d0d0d0
+=Loop		$f8ca12
+=Statement	$eb008a
+=Type		$f8ca12
+
+=DefinedIdent	$eb008a
+=Label		$f8ca12
+=DefinedType	$f8ca12
+=Structure	$b31e8d
+
+=Preproc	$f8ca12
+=Include	$0e5a94
+=Define		$b31e8d
+=TODO		$f8ca12/$202020
+=Precond	$b31e8d
+
+=diff.AddLine	$37b349/$202020
+=diff.ChgLine	$505050/$202020
+=diff.DelLine	$eb008a/$202020
+=diff.File	$eb008a
+=diff.FileNew	$37b349
+=diff.Hunk	$0e5a94

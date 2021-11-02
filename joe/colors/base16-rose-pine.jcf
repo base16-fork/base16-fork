@@ -1,0 +1,61 @@
+
+# base16 Rosé Pine by Emilia Dunfelt <sayhi@dunfelt.se>
+
+.colors *
+
+-text		$e0def4/$191724
+-status		$6e6a86/$26233a
+-cursor		$191724/$e0def4
+-selection	/$26233a
+-curlin		/$1f1d2e
+-linum		$555169/$1f1d2e
+-curlinum	$6e6a86/$1f1d2e
+-menusel	$1f1d2e/$6e6a86
+
+-term 0 	$191724
+-term 1 	$9ccfd8
+-term 2 	$ebbcba
+-term 3 	$31748f
+-term 4 	$eb6f92
+-term 5 	$c4a7e7
+-term 6 	$f6c177
+-term 7 	$6e6a86
+-term 8 	$555169
+-term 9 	$9ccfd8
+-term 10	$ebbcba
+-term 11	$31748f
+-term 12	$e2e1e7
+-term 13	$e5e5e5
+-term 14	$f6c177
+-term 15	$c5c3ce
+
+=Constant	$eb6f92
+=String		$ebbcba
+=Escape		$31748f
+
+=Comment	$555169
+=StorageClass	+Type
+=Keyword	$c4a7e7
+=Conditional	$c4a7e7
+=Operator	$e0def4
+=Loop		$f6c177
+=Statement	$e2e1e7
+=Type		$f6c177
+
+=DefinedIdent	$e2e1e7
+=Label		$f6c177
+=DefinedType	$f6c177
+=Structure	$c4a7e7
+
+=Preproc	$f6c177
+=Include	$9ccfd8
+=Define		$c4a7e7
+=TODO		$f6c177/$1f1d2e
+=Precond	$c4a7e7
+
+=diff.AddLine	$ebbcba/$1f1d2e
+=diff.ChgLine	$555169/$1f1d2e
+=diff.DelLine	$e2e1e7/$1f1d2e
+=diff.File	$e2e1e7
+=diff.FileNew	$ebbcba
+=diff.Hunk	$9ccfd8

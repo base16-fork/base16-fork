@@ -1,0 +1,61 @@
+
+# base16 Darktooth by Jason Milkins (https://github.com/jasonm23)
+
+.colors *
+
+-text		$A89984/$1D2021
+-status		$928374/$504945
+-cursor		$1D2021/$A89984
+-selection	/$504945
+-curlin		/$32302F
+-linum		$665C54/$32302F
+-curlinum	$928374/$32302F
+-menusel	$32302F/$928374
+
+-term 0 	$1D2021
+-term 1 	$0D6678
+-term 2 	$95C085
+-term 3 	$8BA59B
+-term 4 	$FE8625
+-term 5 	$8F4673
+-term 6 	$FAC03B
+-term 7 	$928374
+-term 8 	$665C54
+-term 9 	$0D6678
+-term 10	$95C085
+-term 11	$8BA59B
+-term 12	$FB543F
+-term 13	$A87322
+-term 14	$FAC03B
+-term 15	$FDF4C1
+
+=Constant	$FE8625
+=String		$95C085
+=Escape		$8BA59B
+
+=Comment	$665C54
+=StorageClass	+Type
+=Keyword	$8F4673
+=Conditional	$8F4673
+=Operator	$A89984
+=Loop		$FAC03B
+=Statement	$FB543F
+=Type		$FAC03B
+
+=DefinedIdent	$FB543F
+=Label		$FAC03B
+=DefinedType	$FAC03B
+=Structure	$8F4673
+
+=Preproc	$FAC03B
+=Include	$0D6678
+=Define		$8F4673
+=TODO		$FAC03B/$32302F
+=Precond	$8F4673
+
+=diff.AddLine	$95C085/$32302F
+=diff.ChgLine	$665C54/$32302F
+=diff.DelLine	$FB543F/$32302F
+=diff.File	$FB543F
+=diff.FileNew	$95C085
+=diff.Hunk	$0D6678

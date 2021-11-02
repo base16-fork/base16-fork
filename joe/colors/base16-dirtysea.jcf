@@ -1,0 +1,61 @@
+
+# base16 dirtysea by Kahlil (Kal) Hodgson
+
+.colors *
+
+-text		$000000/$e0e0e0
+-status		$202020/$d0d0d0
+-cursor		$e0e0e0/$000000
+-selection	/$d0d0d0
+-curlin		/$d0dad0
+-linum		$707070/$d0dad0
+-curlinum	$202020/$d0dad0
+-menusel	$d0dad0/$202020
+
+-term 0 	$e0e0e0
+-term 1 	$007300
+-term 2 	$730073
+-term 3 	$755B00
+-term 4 	$006565
+-term 5 	$000090
+-term 6 	$755B00
+-term 7 	$202020
+-term 8 	$707070
+-term 9 	$007300
+-term 10	$730073
+-term 11	$755B00
+-term 12	$840000
+-term 13	$755B00
+-term 14	$755B00
+-term 15	$c4d9c4
+
+=Constant	$006565
+=String		$730073
+=Escape		$755B00
+
+=Comment	$707070
+=StorageClass	+Type
+=Keyword	$000090
+=Conditional	$000090
+=Operator	$000000
+=Loop		$755B00
+=Statement	$840000
+=Type		$755B00
+
+=DefinedIdent	$840000
+=Label		$755B00
+=DefinedType	$755B00
+=Structure	$000090
+
+=Preproc	$755B00
+=Include	$007300
+=Define		$000090
+=TODO		$755B00/$d0dad0
+=Precond	$000090
+
+=diff.AddLine	$730073/$d0dad0
+=diff.ChgLine	$707070/$d0dad0
+=diff.DelLine	$840000/$d0dad0
+=diff.File	$840000
+=diff.FileNew	$730073
+=diff.Hunk	$007300

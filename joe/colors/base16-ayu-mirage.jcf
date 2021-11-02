@@ -1,0 +1,61 @@
+
+# base16 Ayu Mirage by Khue Nguyen <Z5483Y@gmail.com>
+
+.colors *
+
+-text		$CCCAC2/$171B24
+-status		$8A9199/$242936
+-cursor		$171B24/$CCCAC2
+-selection	/$242936
+-curlin		/$1F2430
+-linum		$707A8C/$1F2430
+-curlinum	$8A9199/$1F2430
+-menusel	$1F2430/$8A9199
+
+-term 0 	$171B24
+-term 1 	$5CCFE6
+-term 2 	$D5FF80
+-term 3 	$95E6CB
+-term 4 	$FFAD66
+-term 5 	$D4BFFF
+-term 6 	$FFD173
+-term 7 	$8A9199
+-term 8 	$707A8C
+-term 9 	$5CCFE6
+-term 10	$D5FF80
+-term 11	$95E6CB
+-term 12	$F28779
+-term 13	$F29E74
+-term 14	$FFD173
+-term 15	$F3F4F5
+
+=Constant	$FFAD66
+=String		$D5FF80
+=Escape		$95E6CB
+
+=Comment	$707A8C
+=StorageClass	+Type
+=Keyword	$D4BFFF
+=Conditional	$D4BFFF
+=Operator	$CCCAC2
+=Loop		$FFD173
+=Statement	$F28779
+=Type		$FFD173
+
+=DefinedIdent	$F28779
+=Label		$FFD173
+=DefinedType	$FFD173
+=Structure	$D4BFFF
+
+=Preproc	$FFD173
+=Include	$5CCFE6
+=Define		$D4BFFF
+=TODO		$FFD173/$1F2430
+=Precond	$D4BFFF
+
+=diff.AddLine	$D5FF80/$1F2430
+=diff.ChgLine	$707A8C/$1F2430
+=diff.DelLine	$F28779/$1F2430
+=diff.File	$F28779
+=diff.FileNew	$D5FF80
+=diff.Hunk	$5CCFE6

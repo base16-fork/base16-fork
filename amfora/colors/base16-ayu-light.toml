@@ -1,0 +1,42 @@
+# Base16 Ayu Light - amfora color config
+# Khue Nguyen <Z5483Y@gmail.com>
+
+[theme]
+bg = "#FAFAFA"
+fg = "#5C6773"
+
+bottombar_label = "#A37ACC"
+bottombar_text = "#5C6773"
+bottombar_bg = "#F3F4F5"
+
+tab_num = "#F8F9FA"
+tab_divider = "#828C99"
+
+amfora_link = "#86B300"
+foreign_link = "#ABB0B6"
+link_number = "#ABB0B6"
+
+btn_bg = "#F3F4F5"
+btn_text = "#5C6773"
+
+input_modal_bg = "#F3F4F5"
+input_modal_text = "#5C6773"
+input_modal_field_bg = "#FAFAFA"
+input_modal_field_text = "#5C6773"
+info_modal_bg = "#F3F4F5"
+info_modal_text = "#5C6773"
+error_modal_bg = "#F3F4F5"
+error_modal_text = "#E6BA7E"
+yesno_modal_bg = "#F3F4F5"
+yesno_modal_text = "#5C6773"
+tofu_modal_bg = "#F3F4F5"
+tofu_modal_text = "#5C6773"
+subscription_modal_bg = "#F3F4F5"
+subscription_modal_text = "#5C6773"
+
+hdg_1 = "#FA8D3E"
+hdg_2 = "#F2AE49"
+hdg_3 = "#36A3D9"
+regular_text = "#5C6773"
+preformatted_text = "#4CBF99"
+list_text = "#5C6773"

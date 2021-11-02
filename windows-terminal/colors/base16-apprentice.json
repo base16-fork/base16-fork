@@ -1,0 +1,22 @@
+{
+    "name": "base16-apprentice",
+    "background": "#262626",
+    "selectionBackground": "#333333",
+    "black": "#262626",
+    "blue": "#FFFFAF",
+    "brightBlack": "#6C6C6C",
+    "brightBlue": "#787878",
+    "brightCyan": "#5F87AF",
+    "brightGreen": "#303030",
+    "brightPurple": "#C9C9C9",
+    "brightRed": "#FF8700",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#333333",
+    "cyan": "#5F875F",
+    "foreground": "#BCBCBC",
+    "green": "#87AF87",
+    "purple": "#87AFD7",
+    "red": "#5F8787",
+    "white": "#BCBCBC",
+    "yellow": "#5F8787"
+}

@@ -1,0 +1,61 @@
+
+# base16 Pasque by Gabriel Fontes (https://github.com/Misterio77)
+
+.colors *
+
+-text		$DEDCDF/$271C3A
+-status		$BEBCBF/$3E2D5C
+-cursor		$271C3A/$DEDCDF
+-selection	/$3E2D5C
+-curlin		/$100323
+-linum		$5D5766/$100323
+-curlinum	$BEBCBF/$100323
+-menusel	$100323/$BEBCBF
+
+-term 0 	$271C3A
+-term 1 	$8E7DC6
+-term 2 	$C6914B
+-term 3 	$7263AA
+-term 4 	$918889
+-term 5 	$953B9D
+-term 6 	$804ead
+-term 7 	$BEBCBF
+-term 8 	$5D5766
+-term 9 	$8E7DC6
+-term 10	$C6914B
+-term 11	$7263AA
+-term 12	$A92258
+-term 13	$59325C
+-term 14	$804ead
+-term 15	$BBAADD
+
+=Constant	$918889
+=String		$C6914B
+=Escape		$7263AA
+
+=Comment	$5D5766
+=StorageClass	+Type
+=Keyword	$953B9D
+=Conditional	$953B9D
+=Operator	$DEDCDF
+=Loop		$804ead
+=Statement	$A92258
+=Type		$804ead
+
+=DefinedIdent	$A92258
+=Label		$804ead
+=DefinedType	$804ead
+=Structure	$953B9D
+
+=Preproc	$804ead
+=Include	$8E7DC6
+=Define		$953B9D
+=TODO		$804ead/$100323
+=Precond	$953B9D
+
+=diff.AddLine	$C6914B/$100323
+=diff.ChgLine	$5D5766/$100323
+=diff.DelLine	$A92258/$100323
+=diff.File	$A92258
+=diff.FileNew	$C6914B
+=diff.Hunk	$8E7DC6

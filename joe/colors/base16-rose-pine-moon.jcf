@@ -1,0 +1,61 @@
+
+# base16 Rosé Pine Moon by Emilia Dunfelt <sayhi@dunfelt.se>
+
+.colors *
+
+-text		$e0def4/$232136
+-status		$817c9c/$393552
+-cursor		$232136/$e0def4
+-selection	/$393552
+-curlin		/$2a273f
+-linum		$59546d/$2a273f
+-curlinum	$817c9c/$2a273f
+-menusel	$2a273f/$817c9c
+
+-term 0 	$232136
+-term 1 	$9ccfd8
+-term 2 	$ea9a97
+-term 3 	$3e8fb0
+-term 4 	$eb6f92
+-term 5 	$c4a7e7
+-term 6 	$f6c177
+-term 7 	$817c9c
+-term 8 	$59546d
+-term 9 	$9ccfd8
+-term 10	$ea9a97
+-term 11	$3e8fb0
+-term 12	$ecebf0
+-term 13	$b9b9bc
+-term 14	$f6c177
+-term 15	$d9d7e1
+
+=Constant	$eb6f92
+=String		$ea9a97
+=Escape		$3e8fb0
+
+=Comment	$59546d
+=StorageClass	+Type
+=Keyword	$c4a7e7
+=Conditional	$c4a7e7
+=Operator	$e0def4
+=Loop		$f6c177
+=Statement	$ecebf0
+=Type		$f6c177
+
+=DefinedIdent	$ecebf0
+=Label		$f6c177
+=DefinedType	$f6c177
+=Structure	$c4a7e7
+
+=Preproc	$f6c177
+=Include	$9ccfd8
+=Define		$c4a7e7
+=TODO		$f6c177/$2a273f
+=Precond	$c4a7e7
+
+=diff.AddLine	$ea9a97/$2a273f
+=diff.ChgLine	$59546d/$2a273f
+=diff.DelLine	$ecebf0/$2a273f
+=diff.File	$ecebf0
+=diff.FileNew	$ea9a97
+=diff.Hunk	$9ccfd8

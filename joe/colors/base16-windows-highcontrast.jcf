@@ -1,0 +1,61 @@
+
+# base16 Windows High Contrast by Fergus Collins (https://github.com/C-Fergus)
+
+.colors *
+
+-text		$c0c0c0/$000000
+-status		$a2a2a2/$383838
+-cursor		$000000/$c0c0c0
+-selection	/$383838
+-curlin		/$1C1C1C
+-linum		$545454/$1C1C1C
+-curlinum	$a2a2a2/$1C1C1C
+-menusel	$1C1C1C/$a2a2a2
+
+-term 0 	$000000
+-term 1 	$5454fc
+-term 2 	$54fc54
+-term 3 	$54fcfc
+-term 4 	$808000
+-term 5 	$fc54fc
+-term 6 	$fcfc54
+-term 7 	$a2a2a2
+-term 8 	$545454
+-term 9 	$5454fc
+-term 10	$54fc54
+-term 11	$54fcfc
+-term 12	$fc5454
+-term 13	$008000
+-term 14	$fcfc54
+-term 15	$fcfcfc
+
+=Constant	$808000
+=String		$54fc54
+=Escape		$54fcfc
+
+=Comment	$545454
+=StorageClass	+Type
+=Keyword	$fc54fc
+=Conditional	$fc54fc
+=Operator	$c0c0c0
+=Loop		$fcfc54
+=Statement	$fc5454
+=Type		$fcfc54
+
+=DefinedIdent	$fc5454
+=Label		$fcfc54
+=DefinedType	$fcfc54
+=Structure	$fc54fc
+
+=Preproc	$fcfc54
+=Include	$5454fc
+=Define		$fc54fc
+=TODO		$fcfc54/$1C1C1C
+=Precond	$fc54fc
+
+=diff.AddLine	$54fc54/$1C1C1C
+=diff.ChgLine	$545454/$1C1C1C
+=diff.DelLine	$fc5454/$1C1C1C
+=diff.File	$fc5454
+=diff.FileNew	$54fc54
+=diff.Hunk	$5454fc

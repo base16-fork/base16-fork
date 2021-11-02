@@ -1,0 +1,61 @@
+
+# base16 Sagelight by Carter Veldhuizen
+
+.colors *
+
+-text		$383838/$f8f8f8
+-status		$585858/$d8d8d8
+-cursor		$f8f8f8/$383838
+-selection	/$d8d8d8
+-curlin		/$e8e8e8
+-linum		$b8b8b8/$e8e8e8
+-curlinum	$585858/$e8e8e8
+-menusel	$e8e8e8/$585858
+
+-term 0 	$f8f8f8
+-term 1 	$a0a7d2
+-term 2 	$a0d2c8
+-term 3 	$a2d6f5
+-term 4 	$ffaa61
+-term 5 	$c8a0d2
+-term 6 	$ffdc61
+-term 7 	$585858
+-term 8 	$b8b8b8
+-term 9 	$a0a7d2
+-term 10	$a0d2c8
+-term 11	$a2d6f5
+-term 12	$fa8480
+-term 13	$d2b2a0
+-term 14	$ffdc61
+-term 15	$181818
+
+=Constant	$ffaa61
+=String		$a0d2c8
+=Escape		$a2d6f5
+
+=Comment	$b8b8b8
+=StorageClass	+Type
+=Keyword	$c8a0d2
+=Conditional	$c8a0d2
+=Operator	$383838
+=Loop		$ffdc61
+=Statement	$fa8480
+=Type		$ffdc61
+
+=DefinedIdent	$fa8480
+=Label		$ffdc61
+=DefinedType	$ffdc61
+=Structure	$c8a0d2
+
+=Preproc	$ffdc61
+=Include	$a0a7d2
+=Define		$c8a0d2
+=TODO		$ffdc61/$e8e8e8
+=Precond	$c8a0d2
+
+=diff.AddLine	$a0d2c8/$e8e8e8
+=diff.ChgLine	$b8b8b8/$e8e8e8
+=diff.DelLine	$fa8480/$e8e8e8
+=diff.File	$fa8480
+=diff.FileNew	$a0d2c8
+=diff.Hunk	$a0a7d2

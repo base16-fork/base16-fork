@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 summercamp (https://github.com/chriskempson/base16)
+; Scheme: zoe firi (zoefiri.github.io)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:0010181c ; base00
+"ColorTable01"=dword:00f09b48 ; base0D
+"ColorTable02"=dword:005aeb5c ; base0B
+"ColorTable03"=dword:00bceb5a ; base0C
+"ColorTable04"=dword:004251e3 ; base08
+"ColorTable05"=dword:008080FF ; base0E
+"ColorTable06"=dword:001ba1fb ; base09
+"ColorTable07"=dword:00556e73 ; base05
+"ColorTable08"=dword:00384b50 ; base03
+"ColorTable09"=dword:001c262a ; base01
+"ColorTable10"=dword:0027353a ; base02
+"ColorTable11"=dword:00384b50 ; base03
+"ColorTable12"=dword:00455b5f ; base04
+"ColorTable13"=dword:00556e73 ; base05
+"ColorTable14"=dword:0096b6ba ; base06
+"ColorTable15"=dword:00def5f8 ; base07

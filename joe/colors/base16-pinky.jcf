@@ -1,0 +1,61 @@
+
+# base16 pinky by Benjamin (https://github.com/b3nj5m1n)
+
+.colors *
+
+-text		$f5f5f5/$171517
+-status		$e7dbdb/$1d1b1d
+-cursor		$171517/$f5f5f5
+-selection	/$1d1b1d
+-curlin		/$1b181b
+-linum		$383338/$1b181b
+-curlinum	$e7dbdb/$1b181b
+-menusel	$1b181b/$e7dbdb
+
+-term 0 	$171517
+-term 1 	$00ffff
+-term 2 	$ff0066
+-term 3 	$6600ff
+-term 4 	$00ff66
+-term 5 	$007fff
+-term 6 	$20df6c
+-term 7 	$e7dbdb
+-term 8 	$383338
+-term 9 	$00ffff
+-term 10	$ff0066
+-term 11	$6600ff
+-term 12	$ffa600
+-term 13	$df206c
+-term 14	$20df6c
+-term 15	$f7f3f7
+
+=Constant	$00ff66
+=String		$ff0066
+=Escape		$6600ff
+
+=Comment	$383338
+=StorageClass	+Type
+=Keyword	$007fff
+=Conditional	$007fff
+=Operator	$f5f5f5
+=Loop		$20df6c
+=Statement	$ffa600
+=Type		$20df6c
+
+=DefinedIdent	$ffa600
+=Label		$20df6c
+=DefinedType	$20df6c
+=Structure	$007fff
+
+=Preproc	$20df6c
+=Include	$00ffff
+=Define		$007fff
+=TODO		$20df6c/$1b181b
+=Precond	$007fff
+
+=diff.AddLine	$ff0066/$1b181b
+=diff.ChgLine	$383338/$1b181b
+=diff.DelLine	$ffa600/$1b181b
+=diff.File	$ffa600
+=diff.FileNew	$ff0066
+=diff.Hunk	$00ffff

@@ -1,0 +1,22 @@
+{
+    "name": "base16-ayu-light",
+    "background": "#FAFAFA",
+    "selectionBackground": "#F8F9FA",
+    "black": "#FAFAFA",
+    "blue": "#36A3D9",
+    "brightBlack": "#ABB0B6",
+    "brightBlue": "#828C99",
+    "brightCyan": "#E6BA7E",
+    "brightGreen": "#F3F4F5",
+    "brightPurple": "#242936",
+    "brightRed": "#FA8D3E",
+    "brightWhite": "#1A1F29",
+    "brightYellow": "#F8F9FA",
+    "cyan": "#4CBF99",
+    "foreground": "#5C6773",
+    "green": "#86B300",
+    "purple": "#A37ACC",
+    "red": "#F07178",
+    "white": "#5C6773",
+    "yellow": "#F2AE49"
+}

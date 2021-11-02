@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Qualia (https://github.com/chriskempson/base16)
+; Scheme: isaacwhanson
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00101010 ; base00
+"ColorTable01"=dword:00CDCA50 ; base0D
+"ColorTable02"=dword:0090C980 ; base0B
+"ColorTable03"=dword:0074C8C8 ; base0C
+"ColorTable04"=dword:00A2A6EF ; base08
+"ColorTable05"=dword:0085AFE0 ; base0E
+"ColorTable06"=dword:00EFB8A3 ; base09
+"ColorTable07"=dword:00C0C0C0 ; base05
+"ColorTable08"=dword:00454545 ; base03
+"ColorTable09"=dword:00454545 ; base01
+"ColorTable10"=dword:00454545 ; base02
+"ColorTable11"=dword:00454545 ; base03
+"ColorTable12"=dword:00808080 ; base04
+"ColorTable13"=dword:00C0C0C0 ; base05
+"ColorTable14"=dword:00C0C0C0 ; base06
+"ColorTable15"=dword:00454545 ; base07

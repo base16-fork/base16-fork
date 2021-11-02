@@ -1,0 +1,61 @@
+
+# base16 Bright by Chris Kempson (http://chriskempson.com)
+
+.colors *
+
+-text		$e0e0e0/$000000
+-status		$d0d0d0/$505050
+-cursor		$000000/$e0e0e0
+-selection	/$505050
+-curlin		/$303030
+-linum		$b0b0b0/$303030
+-curlinum	$d0d0d0/$303030
+-menusel	$303030/$d0d0d0
+
+-term 0 	$000000
+-term 1 	$6fb3d2
+-term 2 	$a1c659
+-term 3 	$76c7b7
+-term 4 	$fc6d24
+-term 5 	$d381c3
+-term 6 	$fda331
+-term 7 	$d0d0d0
+-term 8 	$b0b0b0
+-term 9 	$6fb3d2
+-term 10	$a1c659
+-term 11	$76c7b7
+-term 12	$fb0120
+-term 13	$be643c
+-term 14	$fda331
+-term 15	$ffffff
+
+=Constant	$fc6d24
+=String		$a1c659
+=Escape		$76c7b7
+
+=Comment	$b0b0b0
+=StorageClass	+Type
+=Keyword	$d381c3
+=Conditional	$d381c3
+=Operator	$e0e0e0
+=Loop		$fda331
+=Statement	$fb0120
+=Type		$fda331
+
+=DefinedIdent	$fb0120
+=Label		$fda331
+=DefinedType	$fda331
+=Structure	$d381c3
+
+=Preproc	$fda331
+=Include	$6fb3d2
+=Define		$d381c3
+=TODO		$fda331/$303030
+=Precond	$d381c3
+
+=diff.AddLine	$a1c659/$303030
+=diff.ChgLine	$b0b0b0/$303030
+=diff.DelLine	$fb0120/$303030
+=diff.File	$fb0120
+=diff.FileNew	$a1c659
+=diff.Hunk	$6fb3d2

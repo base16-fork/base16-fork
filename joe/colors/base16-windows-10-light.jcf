@@ -1,0 +1,61 @@
+
+# base16 Windows 10 Light by Fergus Collins (https://github.com/C-Fergus)
+
+.colors *
+
+-text		$767676/$f2f2f2
+-status		$ababab/$d9d9d9
+-cursor		$f2f2f2/$767676
+-selection	/$d9d9d9
+-curlin		/$e5e5e5
+-linum		$cccccc/$e5e5e5
+-curlinum	$ababab/$e5e5e5
+-menusel	$e5e5e5/$ababab
+
+-term 0 	$f2f2f2
+-term 1 	$0037da
+-term 2 	$13a10e
+-term 3 	$3a96dd
+-term 4 	$f9f1a5
+-term 5 	$881798
+-term 6 	$c19c00
+-term 7 	$ababab
+-term 8 	$cccccc
+-term 9 	$0037da
+-term 10	$13a10e
+-term 11	$3a96dd
+-term 12	$c50f1f
+-term 13	$16c60c
+-term 14	$c19c00
+-term 15	$0c0c0c
+
+=Constant	$f9f1a5
+=String		$13a10e
+=Escape		$3a96dd
+
+=Comment	$cccccc
+=StorageClass	+Type
+=Keyword	$881798
+=Conditional	$881798
+=Operator	$767676
+=Loop		$c19c00
+=Statement	$c50f1f
+=Type		$c19c00
+
+=DefinedIdent	$c50f1f
+=Label		$c19c00
+=DefinedType	$c19c00
+=Structure	$881798
+
+=Preproc	$c19c00
+=Include	$0037da
+=Define		$881798
+=TODO		$c19c00/$e5e5e5
+=Precond	$881798
+
+=diff.AddLine	$13a10e/$e5e5e5
+=diff.ChgLine	$cccccc/$e5e5e5
+=diff.DelLine	$c50f1f/$e5e5e5
+=diff.File	$c50f1f
+=diff.FileNew	$13a10e
+=diff.Hunk	$0037da

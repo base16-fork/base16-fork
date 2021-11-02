@@ -1,0 +1,61 @@
+
+# base16 Windows NT by Fergus Collins (https://github.com/C-Fergus)
+
+.colors *
+
+-text		$c0c0c0/$000000
+-status		$a1a1a1/$555555
+-cursor		$000000/$c0c0c0
+-selection	/$555555
+-curlin		/$2a2a2a
+-linum		$808080/$2a2a2a
+-curlinum	$a1a1a1/$2a2a2a
+-menusel	$2a2a2a/$a1a1a1
+
+-term 0 	$000000
+-term 1 	$0000ff
+-term 2 	$00ff00
+-term 3 	$00ffff
+-term 4 	$808000
+-term 5 	$ff00ff
+-term 6 	$ffff00
+-term 7 	$a1a1a1
+-term 8 	$808080
+-term 9 	$0000ff
+-term 10	$00ff00
+-term 11	$00ffff
+-term 12	$ff0000
+-term 13	$008000
+-term 14	$ffff00
+-term 15	$ffffff
+
+=Constant	$808000
+=String		$00ff00
+=Escape		$00ffff
+
+=Comment	$808080
+=StorageClass	+Type
+=Keyword	$ff00ff
+=Conditional	$ff00ff
+=Operator	$c0c0c0
+=Loop		$ffff00
+=Statement	$ff0000
+=Type		$ffff00
+
+=DefinedIdent	$ff0000
+=Label		$ffff00
+=DefinedType	$ffff00
+=Structure	$ff00ff
+
+=Preproc	$ffff00
+=Include	$0000ff
+=Define		$ff00ff
+=TODO		$ffff00/$2a2a2a
+=Precond	$ff00ff
+
+=diff.AddLine	$00ff00/$2a2a2a
+=diff.ChgLine	$808080/$2a2a2a
+=diff.DelLine	$ff0000/$2a2a2a
+=diff.File	$ff0000
+=diff.FileNew	$00ff00
+=diff.Hunk	$0000ff

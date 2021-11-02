@@ -1,0 +1,61 @@
+
+# base16 tender by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+
+.colors *
+
+-text		$eeeeee/$282828
+-status		$b8b8b8/$484848
+-cursor		$282828/$eeeeee
+-selection	/$484848
+-curlin		/$383838
+-linum		$4c4c4c/$383838
+-curlinum	$b8b8b8/$383838
+-menusel	$383838/$b8b8b8
+
+-term 0 	$282828
+-term 1 	$b3deef
+-term 2 	$c9d05c
+-term 3 	$73cef4
+-term 4 	$dc9656
+-term 5 	$d3b987
+-term 6 	$ffc24b
+-term 7 	$b8b8b8
+-term 8 	$4c4c4c
+-term 9 	$b3deef
+-term 10	$c9d05c
+-term 11	$73cef4
+-term 12	$f43753
+-term 13	$a16946
+-term 14	$ffc24b
+-term 15	$feffff
+
+=Constant	$dc9656
+=String		$c9d05c
+=Escape		$73cef4
+
+=Comment	$4c4c4c
+=StorageClass	+Type
+=Keyword	$d3b987
+=Conditional	$d3b987
+=Operator	$eeeeee
+=Loop		$ffc24b
+=Statement	$f43753
+=Type		$ffc24b
+
+=DefinedIdent	$f43753
+=Label		$ffc24b
+=DefinedType	$ffc24b
+=Structure	$d3b987
+
+=Preproc	$ffc24b
+=Include	$b3deef
+=Define		$d3b987
+=TODO		$ffc24b/$383838
+=Precond	$d3b987
+
+=diff.AddLine	$c9d05c/$383838
+=diff.ChgLine	$4c4c4c/$383838
+=diff.DelLine	$f43753/$383838
+=diff.File	$f43753
+=diff.FileNew	$c9d05c
+=diff.Hunk	$b3deef

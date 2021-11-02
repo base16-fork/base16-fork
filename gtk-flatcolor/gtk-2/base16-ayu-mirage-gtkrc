@@ -1,0 +1,15 @@
+## Base16 Ayu Mirage
+# Author: Khue Nguyen <Z5483Y@gmail.com>
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#171B24
+color0:#171B24
+text_color:#CCCAC2
+selected_bg_color:#242936
+selected_fg_color:#CCCAC2
+tooltip_bg_color:#171B24
+tooltip_fg_color:#CCCAC2
+titlebar_bg_color:#171B24
+titlebar_fg_color:#CCCAC2
+menu_bg_color:#171B24
+menu_fg_color:#CCCAC2
+link_color:#242936"

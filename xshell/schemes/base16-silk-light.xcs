@@ -1,0 +1,23 @@
+[Silk Light]
+text=385156
+text(bold)=385156
+background=E9F1EF
+black=E9F1EF
+black(bold)=5C787B
+red=CF432E
+red(bold)=D27F46
+green=6CA38C
+green(bold)=CCD4D3
+yellow=CFAD25
+yellow(bold)=90B7B6
+blue=39AAC9
+blue(bold)=4B5B5F
+magenta=6E6582
+magenta(bold)=0e3c46
+cyan=329CA2
+cyan(bold)=865369
+white=385156
+white(bold)=D2FAFF
+[Names]
+name0=Silk Light
+count=1

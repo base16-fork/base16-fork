@@ -1,0 +1,61 @@
+
+# base16 Kimber by Mishka Nguyen (https://github.com/akhsiM)
+
+.colors *
+
+-text		$DEDEE7/$222222
+-status		$5A5A5A/$555D55
+-cursor		$222222/$DEDEE7
+-selection	/$555D55
+-curlin		/$313131
+-linum		$644646/$313131
+-curlinum	$5A5A5A/$313131
+-menusel	$313131/$5A5A5A
+
+-term 0 	$222222
+-term 1 	$537C9C
+-term 2 	$99C899
+-term 3 	$78B4B4
+-term 4 	$476C88
+-term 5 	$86CACD
+-term 6 	$D8B56D
+-term 7 	$5A5A5A
+-term 8 	$644646
+-term 9 	$537C9C
+-term 10	$99C899
+-term 11	$78B4B4
+-term 12	$C88C8C
+-term 13	$704F4F
+-term 14	$D8B56D
+-term 15	$FFFFE6
+
+=Constant	$476C88
+=String		$99C899
+=Escape		$78B4B4
+
+=Comment	$644646
+=StorageClass	+Type
+=Keyword	$86CACD
+=Conditional	$86CACD
+=Operator	$DEDEE7
+=Loop		$D8B56D
+=Statement	$C88C8C
+=Type		$D8B56D
+
+=DefinedIdent	$C88C8C
+=Label		$D8B56D
+=DefinedType	$D8B56D
+=Structure	$86CACD
+
+=Preproc	$D8B56D
+=Include	$537C9C
+=Define		$86CACD
+=TODO		$D8B56D/$313131
+=Precond	$86CACD
+
+=diff.AddLine	$99C899/$313131
+=diff.ChgLine	$644646/$313131
+=diff.DelLine	$C88C8C/$313131
+=diff.File	$C88C8C
+=diff.FileNew	$99C899
+=diff.Hunk	$537C9C

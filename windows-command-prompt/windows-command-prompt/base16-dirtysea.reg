@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 dirtysea (https://github.com/chriskempson/base16)
+; Scheme: Kahlil (Kal) Hodgson
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00e0e0e0 ; base00
+"ColorTable01"=dword:00007300 ; base0D
+"ColorTable02"=dword:00730073 ; base0B
+"ColorTable03"=dword:00005B75 ; base0C
+"ColorTable04"=dword:00000084 ; base08
+"ColorTable05"=dword:00900000 ; base0E
+"ColorTable06"=dword:00656500 ; base09
+"ColorTable07"=dword:00000000 ; base05
+"ColorTable08"=dword:00707070 ; base03
+"ColorTable09"=dword:00d0dad0 ; base01
+"ColorTable10"=dword:00d0d0d0 ; base02
+"ColorTable11"=dword:00707070 ; base03
+"ColorTable12"=dword:00202020 ; base04
+"ColorTable13"=dword:00000000 ; base05
+"ColorTable14"=dword:00f8f8f8 ; base06
+"ColorTable15"=dword:00c4d9c4 ; base07

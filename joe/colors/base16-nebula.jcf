@@ -1,0 +1,61 @@
+
+# base16 Nebula by Gabriel Fontes (https://github.com/Misterio77)
+
+.colors *
+
+-text		$a4a6a9/$22273b
+-status		$87888b/$5a8380
+-cursor		$22273b/$a4a6a9
+-selection	/$5a8380
+-curlin		/$414f60
+-linum		$6e6f72/$414f60
+-curlinum	$87888b/$414f60
+-menusel	$414f60/$87888b
+
+-term 0 	$22273b
+-term 1 	$4d6bb6
+-term 2 	$6562a8
+-term 3 	$226f68
+-term 4 	$94929e
+-term 5 	$716cae
+-term 6 	$4f9062
+-term 7 	$87888b
+-term 8 	$6e6f72
+-term 9 	$4d6bb6
+-term 10	$6562a8
+-term 11	$226f68
+-term 12	$777abc
+-term 13	$8c70a7
+-term 14	$4f9062
+-term 15	$8dbdaa
+
+=Constant	$94929e
+=String		$6562a8
+=Escape		$226f68
+
+=Comment	$6e6f72
+=StorageClass	+Type
+=Keyword	$716cae
+=Conditional	$716cae
+=Operator	$a4a6a9
+=Loop		$4f9062
+=Statement	$777abc
+=Type		$4f9062
+
+=DefinedIdent	$777abc
+=Label		$4f9062
+=DefinedType	$4f9062
+=Structure	$716cae
+
+=Preproc	$4f9062
+=Include	$4d6bb6
+=Define		$716cae
+=TODO		$4f9062/$414f60
+=Precond	$716cae
+
+=diff.AddLine	$6562a8/$414f60
+=diff.ChgLine	$6e6f72/$414f60
+=diff.DelLine	$777abc/$414f60
+=diff.File	$777abc
+=diff.FileNew	$6562a8
+=diff.Hunk	$4d6bb6

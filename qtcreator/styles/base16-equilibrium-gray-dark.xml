@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Base16 Equilibrium Gray Dark">
+  <!--
+  base16-qtcreator (https://github.com/ilpianista/base16-qtcreator)
+  by Chris Kempson (http://chriskempson.com)
+  Equilibrium Gray Dark scheme by Carlo Abelli
+  -->
+
+  <!-- main colors, skipping one of attributes (backgroud/foreground) will use color from here -->
+  <style name="Text" foreground="#ababab" background="#111111"/>
+
+  <!-- it will be underlined by default -->
+  <style name="Link"/>
+
+  <!-- selection, current line, search, matching brackets -->
+  <style name="Selection" background="#262626"/>
+  <style name="CurrentLine" background="#777777"/>
+  <style name="LineNumber" foreground="#777777"/>
+  <style name="CurrentLineNumber" foreground="#919191" bold="true"/>
+  <style name="SearchResult" background="#1b1b1b"/>
+  <style name="Parentheses" background="#262626" />
+  <style name="ParenthesesMismatch" background="#6a7fd2" />
+
+  <!-- Selection whilst searching in it -->
+  <style name="SearchScope" foreground="#e2e2e2" background="#777777"/>
+
+  <!-- word (symbol) under cursor: background - color of marking frame, foreground - ignored -->
+  <style name="Occurrences" background="#777777"/>
+  <style name="Occurrences.Rename" background="#919191"/>
+  <!-- unused variable: foreground - color of underlining -->
+  <style name="Occurrences.Unused" foreground="#df5923"/>
+
+  <!-- language primitives -->
+  <style name="Number" foreground="#df5923"/>
+  <style name="String" foreground="#7f8b00"/>
+  <style name="Keyword" foreground="#6a7fd2"/>
+  <style name="Operator" foreground="#ababab"/>
+  <style name="Preprocessor" foreground="#008dd1"/>
+  <style name="Label" foreground="#f04339"/>
+
+  <!-- types, classes -->
+  <style name="Type" foreground="#bb8801"/>
+  <style name="PrimitiveType" foreground="#6a7fd2"/>
+
+  <!-- functions, methods -->
+  <style name="Function" foreground="#008dd1"/>
+  <style name="VirtualMethod" foreground="#008dd1" italic="true"/>
+
+  <!-- variables -->
+  <style name="Field" foreground="#c6c6c6"/>
+  <style name="Local" foreground="#ababab"/>
+  <style name="Global" foreground="#ababab"/>
+  <style name="Static" foreground="#ababab"/>
+  <style name="JsScopeVar" foreground="#ababab" italic="true"/>
+  <style name="JsImportVar" foreground="#ababab" italic="true"/>
+  <style name="JsGlobalVar" foreground="#ababab" italic="true"/>
+
+  <!-- whitespace -->
+  <style name="VisualWhitespace" foreground="#262626"/>
+
+  <!-- comments -->
+  <style name="Comment" foreground="#777777"/>
+  <style name="DisabledCode" foreground="#777777"/>
+  <style name="Doxygen.Comment" foreground="#777777"/>
+  <style name="Doxygen.Tag" foreground="#777777"/>
+
+  <!-- QML -->
+  <style name="QmlTypeId" foreground="#6a7fd2"/>
+  <style name="Binding" foreground="#f04339"/>
+  <style name="QmlExternalId" foreground="#008dd1" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#008dd1" italic="true"/>
+  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlStateName" italic="true"/>
+
+  <!-- inline diff -->
+  <style name="DiffFile" foreground="#6a7fd2"/>
+  <style name="DiffLocation" foreground="#008dd1"/>
+  <style name="AddedLine" foreground="#7f8b00"/>
+  <style name="RemovedLine" foreground="#bb8801"/>
+  <style name="LogChangeLine" foreground="#f04339"/>
+
+  <!-- side-by-side diff -->
+  <style name="DiffFileLine" foreground="#6a7fd2"/>
+  <style name="DiffContextLine" foreground="#008dd1"/>
+  <style name="DiffSourceLine" foreground="#7f8b00"/>
+  <style name="DiffSourceChar" foreground="#bb8801" background="#1b1b1b"/>
+  <style name="DiffDestLine" foreground="#7f8b00"/>
+  <style name="DiffDestChar" foreground="#bb8801" background="#1b1b1b"/>
+
+  <!-- errors, warnings -->
+  <style name="Error" underlineColor="#f04339" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#f04339" underlineStyle="DotLine"/>
+  <style name="Warning" underlineColor="#bb8801" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#bb8801" underlineStyle="DotLine"/>
+</style-scheme>

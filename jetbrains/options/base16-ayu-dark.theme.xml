@@ -1,0 +1,21 @@
+<!--    Base16 Ayu Dark
+        Author: Khue Nguyen <Z5483Y@gmail.com>   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="0F1419" />
+    <option name="treeSelectionColor" value="59C2FF" />
+    <option name="highlightColor" value="272D38" />
+    <option name="secondBorderColor" value="0F1419" />
+    <option name="tableSelectedColor" value="59C2FF" />
+    <option name="contrastColor" value="131721" />
+    <option name="disabledColor" value="BFBDB6" />
+    <option name="secondaryBackgroundColor" value="131721" />
+    <option name="buttonColor" value="0F1419" />
+    <option name="selectionForegroundColor" value="E6E1CF" />
+    <option name="selectionBackgroundColor" value="59C2FF" />
+    <option name="textColor" value="E6E1CF" />
+    <option name="foregroundColor" value="E6E1CF" />
+    <option name="backgroundColor" value="0F1419" />
+  </component>
+</application> 

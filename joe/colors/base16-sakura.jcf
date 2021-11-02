@@ -1,0 +1,61 @@
+
+# base16 Sakura by Misterio77 (http://github.com/Misterio77)
+
+.colors *
+
+-text		$564448/$feedf3
+-status		$665055/$e0ccd1
+-cursor		$feedf3/$564448
+-selection	/$e0ccd1
+-curlin		/$f8e2e7
+-linum		$755f64/$f8e2e7
+-curlinum	$665055/$f8e2e7
+-menusel	$f8e2e7/$665055
+
+-term 0 	$feedf3
+-term 1 	$006e93
+-term 2 	$2e916d
+-term 3 	$1d8991
+-term 4 	$f6661e
+-term 5 	$5e2180
+-term 6 	$c29461
+-term 7 	$665055
+-term 8 	$755f64
+-term 9 	$006e93
+-term 10	$2e916d
+-term 11	$1d8991
+-term 12	$df2d52
+-term 13	$ba0d35
+-term 14	$c29461
+-term 15	$33292b
+
+=Constant	$f6661e
+=String		$2e916d
+=Escape		$1d8991
+
+=Comment	$755f64
+=StorageClass	+Type
+=Keyword	$5e2180
+=Conditional	$5e2180
+=Operator	$564448
+=Loop		$c29461
+=Statement	$df2d52
+=Type		$c29461
+
+=DefinedIdent	$df2d52
+=Label		$c29461
+=DefinedType	$c29461
+=Structure	$5e2180
+
+=Preproc	$c29461
+=Include	$006e93
+=Define		$5e2180
+=TODO		$c29461/$f8e2e7
+=Precond	$5e2180
+
+=diff.AddLine	$2e916d/$f8e2e7
+=diff.ChgLine	$755f64/$f8e2e7
+=diff.DelLine	$df2d52/$f8e2e7
+=diff.File	$df2d52
+=diff.FileNew	$2e916d
+=diff.Hunk	$006e93

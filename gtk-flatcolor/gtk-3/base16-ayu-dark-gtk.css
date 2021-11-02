@@ -1,0 +1,15 @@
+/*
+Base16 Ayu Dark
+Author: Khue Nguyen <Z5483Y@gmail.com>
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #0F1419;
+@define-color fg_color #E6E1CF;
+@define-color base_color #131721;
+@define-color text_color #E6E1CF;
+@define-color text_color_disabled #3E4B59;
+@define-color selected_bg_color #272D38;
+@define-color selected_fg_color #E6E1CF;
+@define-color tooltip_bg_color #0F1419;
+@define-color tooltip_fg_color #E6E1CF;

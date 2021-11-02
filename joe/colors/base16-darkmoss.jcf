@@ -1,0 +1,61 @@
+
+# base16 darkmoss by Gabriel Avanzi (https://github.com/avanzzzi)
+
+.colors *
+
+-text		$c7c7a5/$171e1f
+-status		$818f80/$373c3d
+-cursor		$171e1f/$c7c7a5
+-selection	/$373c3d
+-curlin		/$252c2d
+-linum		$555e5f/$252c2d
+-curlinum	$818f80/$252c2d
+-menusel	$252c2d/$818f80
+
+-term 0 	$171e1f
+-term 1 	$498091
+-term 2 	$499180
+-term 3 	$66d9ef
+-term 4 	$e6db74
+-term 5 	$9bc0c8
+-term 6 	$fdb11f
+-term 7 	$818f80
+-term 8 	$555e5f
+-term 9 	$498091
+-term 10	$499180
+-term 11	$66d9ef
+-term 12	$ff4658
+-term 13	$d27b53
+-term 14	$fdb11f
+-term 15	$e1eaef
+
+=Constant	$e6db74
+=String		$499180
+=Escape		$66d9ef
+
+=Comment	$555e5f
+=StorageClass	+Type
+=Keyword	$9bc0c8
+=Conditional	$9bc0c8
+=Operator	$c7c7a5
+=Loop		$fdb11f
+=Statement	$ff4658
+=Type		$fdb11f
+
+=DefinedIdent	$ff4658
+=Label		$fdb11f
+=DefinedType	$fdb11f
+=Structure	$9bc0c8
+
+=Preproc	$fdb11f
+=Include	$498091
+=Define		$9bc0c8
+=TODO		$fdb11f/$252c2d
+=Precond	$9bc0c8
+
+=diff.AddLine	$499180/$252c2d
+=diff.ChgLine	$555e5f/$252c2d
+=diff.DelLine	$ff4658/$252c2d
+=diff.File	$ff4658
+=diff.FileNew	$499180
+=diff.Hunk	$498091

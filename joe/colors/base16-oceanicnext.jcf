@@ -1,0 +1,61 @@
+
+# base16 OceanicNext by https://github.com/voronianski/oceanic-next-color-scheme
+
+.colors *
+
+-text		$C0C5CE/$1B2B34
+-status		$A7ADBA/$4F5B66
+-cursor		$1B2B34/$C0C5CE
+-selection	/$4F5B66
+-curlin		/$343D46
+-linum		$65737E/$343D46
+-curlinum	$A7ADBA/$343D46
+-menusel	$343D46/$A7ADBA
+
+-term 0 	$1B2B34
+-term 1 	$6699CC
+-term 2 	$99C794
+-term 3 	$5FB3B3
+-term 4 	$F99157
+-term 5 	$C594C5
+-term 6 	$FAC863
+-term 7 	$A7ADBA
+-term 8 	$65737E
+-term 9 	$6699CC
+-term 10	$99C794
+-term 11	$5FB3B3
+-term 12	$EC5f67
+-term 13	$AB7967
+-term 14	$FAC863
+-term 15	$D8DEE9
+
+=Constant	$F99157
+=String		$99C794
+=Escape		$5FB3B3
+
+=Comment	$65737E
+=StorageClass	+Type
+=Keyword	$C594C5
+=Conditional	$C594C5
+=Operator	$C0C5CE
+=Loop		$FAC863
+=Statement	$EC5f67
+=Type		$FAC863
+
+=DefinedIdent	$EC5f67
+=Label		$FAC863
+=DefinedType	$FAC863
+=Structure	$C594C5
+
+=Preproc	$FAC863
+=Include	$6699CC
+=Define		$C594C5
+=TODO		$FAC863/$343D46
+=Precond	$C594C5
+
+=diff.AddLine	$99C794/$343D46
+=diff.ChgLine	$65737E/$343D46
+=diff.DelLine	$EC5f67/$343D46
+=diff.File	$EC5f67
+=diff.FileNew	$99C794
+=diff.Hunk	$6699CC

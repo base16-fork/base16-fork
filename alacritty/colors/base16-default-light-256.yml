@@ -1,0 +1,42 @@
+# Base16 Default Light 256 - alacritty color config
+# Chris Kempson (http://chriskempson.com)
+colors:
+  # Default colors
+  primary:
+    background: '0x#f8f8f8'
+    foreground: '0x#383838'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x#f8f8f8'
+    cursor: '0x#383838'
+
+  # Normal colors
+  normal:
+    black:   '0x#f8f8f8'
+    red:     '0x#ab4642'
+    green:   '0x#a1b56c'
+    yellow:  '0x#f7ca88'
+    blue:    '0x#7cafc2'
+    magenta: '0x#ba8baf'
+    cyan:    '0x#86c1b9'
+    white:   '0x#383838'
+
+  # Bright colors
+  bright:
+    black:   '0x#b8b8b8'
+    red:     '0x#ab4642'
+    green:   '0x#a1b56c'
+    yellow:  '0x#f7ca88'
+    blue:    '0x#7cafc2'
+    magenta: '0x#ba8baf'
+    cyan:    '0x#86c1b9'
+    white:   '0x#181818'
+
+  indexed_colors:
+    - { index: 16, color: '0x#dc9656' }
+    - { index: 17, color: '0x#a16946' }
+    - { index: 18, color: '0x#e8e8e8' }
+    - { index: 19, color: '0x#d8d8d8' }
+    - { index: 20, color: '0x#585858' }
+    - { index: 21, color: '0x#282828' }

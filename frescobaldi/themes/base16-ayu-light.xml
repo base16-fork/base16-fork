@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Ayu Light">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Khue Nguyen <Z5483Y@gmail.com>
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#5C6773" />
+    <background color="#FAFAFA" />
+    <selectiontext color="#242936" />
+    <selectionbackground color="#ABB0B6" />
+    <current color="#F3F4F5" />
+    <mark color="#F8F9FA" />
+    <error color="#F3F4F5" />
+    <search color="#" />
+    <match color="#828C99" />
+    <paper color="#F3F4F5" />
+    <musichighlight color="#ABB0B6" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#F07178" />
+    <escape textColor="#FA8D3E" />
+    <comment italic="True" textColor="#ABB0B6" />
+    <value textColor="#F2AE49" />
+    <variable textColor="#86B300" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#36A3D9" />
+    <error textColor="#A37ACC" underline="True" underlineColor="#A37ACC" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#FA8D3E" />
+      <dynamic bold="True" textColor="#36A3D9" />
+      <articulation bold="True" textColor="#FA8D3E" />
+      <fingering textColor="#86B300" />
+      <stringnumber textColor="#FA8D3E" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#F2AE49" />
+      <lyricmode textColor="#36A3D9" />
+      <lyrictext textColor="#5C6773" />
+      <context bold="True" />
+      <grob textColor="#5C6773" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

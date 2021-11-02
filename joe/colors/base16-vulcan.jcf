@@ -1,0 +1,61 @@
+
+# base16 vulcan by Andrey Varfolomeev
+
+.colors *
+
+-text		$5b778c/$041523
+-status		$6b6977/$003552
+-cursor		$041523/$5b778c
+-selection	/$003552
+-curlin		/$122339
+-linum		$7a5759/$122339
+-curlinum	$6b6977/$122339
+-menusel	$122339/$6b6977
+
+-term 0 	$041523
+-term 1 	$977d7c
+-term 2 	$977d7c
+-term 3 	$977d7c
+-term 4 	$9198a3
+-term 5 	$9198a3
+-term 6 	$adb4b9
+-term 7 	$6b6977
+-term 8 	$7a5759
+-term 9 	$977d7c
+-term 10	$977d7c
+-term 11	$977d7c
+-term 12	$818591
+-term 13	$977d7c
+-term 14	$adb4b9
+-term 15	$214d68
+
+=Constant	$9198a3
+=String		$977d7c
+=Escape		$977d7c
+
+=Comment	$7a5759
+=StorageClass	+Type
+=Keyword	$9198a3
+=Conditional	$9198a3
+=Operator	$5b778c
+=Loop		$adb4b9
+=Statement	$818591
+=Type		$adb4b9
+
+=DefinedIdent	$818591
+=Label		$adb4b9
+=DefinedType	$adb4b9
+=Structure	$9198a3
+
+=Preproc	$adb4b9
+=Include	$977d7c
+=Define		$9198a3
+=TODO		$adb4b9/$122339
+=Precond	$9198a3
+
+=diff.AddLine	$977d7c/$122339
+=diff.ChgLine	$7a5759/$122339
+=diff.DelLine	$818591/$122339
+=diff.File	$818591
+=diff.FileNew	$977d7c
+=diff.Hunk	$977d7c

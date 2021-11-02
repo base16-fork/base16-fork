@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Windows 95 Light (https://github.com/chriskempson/base16)
+; Scheme: Fergus Collins (https://github.com/C-Fergus)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00fcfcfc ; base00
+"ColorTable01"=dword:00a80000 ; base0D
+"ColorTable02"=dword:0000a800 ; base0B
+"ColorTable03"=dword:00a8a800 ; base0C
+"ColorTable04"=dword:000000a8 ; base08
+"ColorTable05"=dword:00a800a8 ; base0E
+"ColorTable06"=dword:0054fcfc ; base09
+"ColorTable07"=dword:00545454 ; base05
+"ColorTable08"=dword:00a8a8a8 ; base03
+"ColorTable09"=dword:00e0e0e0 ; base01
+"ColorTable10"=dword:00c4c4c4 ; base02
+"ColorTable11"=dword:00a8a8a8 ; base03
+"ColorTable12"=dword:007e7e7e ; base04
+"ColorTable13"=dword:00545454 ; base05
+"ColorTable14"=dword:002a2a2a ; base06
+"ColorTable15"=dword:00000000 ; base07

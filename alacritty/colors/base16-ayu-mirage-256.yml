@@ -1,0 +1,42 @@
+# Base16 Ayu Mirage 256 - alacritty color config
+# Khue Nguyen <Z5483Y@gmail.com>
+colors:
+  # Default colors
+  primary:
+    background: '0x171B24'
+    foreground: '0xCCCAC2'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x171B24'
+    cursor: '0xCCCAC2'
+
+  # Normal colors
+  normal:
+    black:   '0x171B24'
+    red:     '0xF28779'
+    green:   '0xD5FF80'
+    yellow:  '0xFFD173'
+    blue:    '0x5CCFE6'
+    magenta: '0xD4BFFF'
+    cyan:    '0x95E6CB'
+    white:   '0xCCCAC2'
+
+  # Bright colors
+  bright:
+    black:   '0x707A8C'
+    red:     '0xF28779'
+    green:   '0xD5FF80'
+    yellow:  '0xFFD173'
+    blue:    '0x5CCFE6'
+    magenta: '0xD4BFFF'
+    cyan:    '0x95E6CB'
+    white:   '0xF3F4F5'
+
+  indexed_colors:
+    - { index: 16, color: '0xFFAD66' }
+    - { index: 17, color: '0xF29E74' }
+    - { index: 18, color: '0x1F2430' }
+    - { index: 19, color: '0x242936' }
+    - { index: 20, color: '0x8A9199' }
+    - { index: 21, color: '0xD9D7CE' }

@@ -1,0 +1,61 @@
+
+# base16 IR Black by Timothée Poisot (http://timotheepoisot.fr)
+
+.colors *
+
+-text		$b5b3aa/$000000
+-status		$918f88/$484844
+-cursor		$000000/$b5b3aa
+-selection	/$484844
+-curlin		/$242422
+-linum		$6c6c66/$242422
+-curlinum	$918f88/$242422
+-menusel	$242422/$918f88
+
+-term 0 	$000000
+-term 1 	$96cbfe
+-term 2 	$a8ff60
+-term 3 	$c6c5fe
+-term 4 	$e9c062
+-term 5 	$ff73fd
+-term 6 	$ffffb6
+-term 7 	$918f88
+-term 8 	$6c6c66
+-term 9 	$96cbfe
+-term 10	$a8ff60
+-term 11	$c6c5fe
+-term 12	$ff6c60
+-term 13	$b18a3d
+-term 14	$ffffb6
+-term 15	$fdfbee
+
+=Constant	$e9c062
+=String		$a8ff60
+=Escape		$c6c5fe
+
+=Comment	$6c6c66
+=StorageClass	+Type
+=Keyword	$ff73fd
+=Conditional	$ff73fd
+=Operator	$b5b3aa
+=Loop		$ffffb6
+=Statement	$ff6c60
+=Type		$ffffb6
+
+=DefinedIdent	$ff6c60
+=Label		$ffffb6
+=DefinedType	$ffffb6
+=Structure	$ff73fd
+
+=Preproc	$ffffb6
+=Include	$96cbfe
+=Define		$ff73fd
+=TODO		$ffffb6/$242422
+=Precond	$ff73fd
+
+=diff.AddLine	$a8ff60/$242422
+=diff.ChgLine	$6c6c66/$242422
+=diff.DelLine	$ff6c60/$242422
+=diff.File	$ff6c60
+=diff.FileNew	$a8ff60
+=diff.Hunk	$96cbfe

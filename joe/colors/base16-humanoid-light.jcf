@@ -1,0 +1,61 @@
+
+# base16 Humanoid light by Thomas (tasmo) Friese
+
+.colors *
+
+-text		$232629/$f8f8f2
+-status		$60615d/$deded8
+-cursor		$f8f8f2/$232629
+-selection	/$deded8
+-curlin		/$efefe9
+-linum		$c0c0bd/$efefe9
+-curlinum	$60615d/$efefe9
+-menusel	$efefe9/$60615d
+
+-term 0 	$f8f8f2
+-term 1 	$0082c9
+-term 2 	$388e3c
+-term 3 	$008e8e
+-term 4 	$ff3d00
+-term 5 	$700f98
+-term 6 	$ffb627
+-term 7 	$60615d
+-term 8 	$c0c0bd
+-term 9 	$0082c9
+-term 10	$388e3c
+-term 11	$008e8e
+-term 12	$b0151a
+-term 13	$b27701
+-term 14	$ffb627
+-term 15	$070708
+
+=Constant	$ff3d00
+=String		$388e3c
+=Escape		$008e8e
+
+=Comment	$c0c0bd
+=StorageClass	+Type
+=Keyword	$700f98
+=Conditional	$700f98
+=Operator	$232629
+=Loop		$ffb627
+=Statement	$b0151a
+=Type		$ffb627
+
+=DefinedIdent	$b0151a
+=Label		$ffb627
+=DefinedType	$ffb627
+=Structure	$700f98
+
+=Preproc	$ffb627
+=Include	$0082c9
+=Define		$700f98
+=TODO		$ffb627/$efefe9
+=Precond	$700f98
+
+=diff.AddLine	$388e3c/$efefe9
+=diff.ChgLine	$c0c0bd/$efefe9
+=diff.DelLine	$b0151a/$efefe9
+=diff.File	$b0151a
+=diff.FileNew	$388e3c
+=diff.Hunk	$0082c9

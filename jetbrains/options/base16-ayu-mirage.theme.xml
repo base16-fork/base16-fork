@@ -1,0 +1,21 @@
+<!--    Base16 Ayu Mirage
+        Author: Khue Nguyen <Z5483Y@gmail.com>   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="171B24" />
+    <option name="treeSelectionColor" value="5CCFE6" />
+    <option name="highlightColor" value="242936" />
+    <option name="secondBorderColor" value="171B24" />
+    <option name="tableSelectedColor" value="5CCFE6" />
+    <option name="contrastColor" value="1F2430" />
+    <option name="disabledColor" value="8A9199" />
+    <option name="secondaryBackgroundColor" value="1F2430" />
+    <option name="buttonColor" value="171B24" />
+    <option name="selectionForegroundColor" value="D9D7CE" />
+    <option name="selectionBackgroundColor" value="5CCFE6" />
+    <option name="textColor" value="D9D7CE" />
+    <option name="foregroundColor" value="CCCAC2" />
+    <option name="backgroundColor" value="171B24" />
+  </component>
+</application> 
