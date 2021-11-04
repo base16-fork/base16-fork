@@ -1,6 +1,6 @@
 ## base16-kakoune (https://github.com/leira/base16-kakoune)
 ## by Leira Hua
-## Ayu Mirage scheme by Khue Nguyen <Z5483Y@gmail.com>
+## Ayu Mirage scheme by Khue Nguyen (https://github.com/Z5483)
 
 evaluate-commands %sh{
     base00='rgb:171B24'

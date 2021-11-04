@@ -10,7 +10,7 @@ index 0e01717..c288227 100644
 +/*
 + * Terminal colors (16 first used in escape sequence)
 + * Base16 st template by Daniel Mulford
-+ * Ayu Dark scheme by Khue Nguyen <Z5483Y@gmail.com>
++ * Ayu Dark scheme by Khue Nguyen (https://github.com/Z5483)
 + */
  static const char *colorname[] = {
 -	/* 8 normal colors */

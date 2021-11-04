@@ -1,5 +1,5 @@
 // Base16 Ayu Light
-// Scheme: Khue Nguyen <Z5483Y@gmail.com>
+// Scheme: Khue Nguyen (https://github.com/Z5483)
 
 base00 = '#FAFAFA';
 base01 = '#F3F4F5';

@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Ayu Dark scheme by Khue Nguyen <Z5483Y@gmail.com>
+# Ayu Dark scheme by Khue Nguyen (https://github.com/Z5483)
 
 base00 = "#0F1419"
 base01 = "#131721"

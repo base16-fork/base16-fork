@@ -3,28 +3,28 @@
  * Default Light scheme by Chris Kempson (http://chriskempson.com) */
 
 window {
-	background-color: ##f8f8f8;
-	color: ##383838;
+	background-color: #f8f8f8;
+	color: #383838;
 }
 
 #entry:nth-child(odd) {
-	background-color: ##f8f8f8;
+	background-color: #f8f8f8;
 }
 
 #entry:nth-child(even) {
-	background-color: ##e8e8e8;
+	background-color: #e8e8e8;
 }
 
 #entry:selected {
-	background-color: ##d8d8d8;
+	background-color: #d8d8d8;
 }
 
 #input {
-	background-color: ##e8e8e8;
-	color: ##585858;
-	border-color: ##d8d8d8; 
+	background-color: #e8e8e8;
+	color: #585858;
+	border-color: #d8d8d8; 
 }
 
 #input:focus {
-	border-color: ##f7ca88; 
+	border-color: #f7ca88; 
 }

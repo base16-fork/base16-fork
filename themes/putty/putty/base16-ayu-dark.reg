@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ; Base16 Ayu Dark
-; schema by Khue Nguyen <Z5483Y@gmail.com>
+; schema by Khue Nguyen (https://github.com/Z5483)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ayu-dark]
 
 ; Default Foreground

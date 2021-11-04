@@ -3,22 +3,22 @@
 ## Default Light scheme by Chris Kempson (http://chriskempson.com)
 
 evaluate-commands %sh{
-    base00='rgb:#f8f8f8'
-    base01='rgb:#e8e8e8'
-    base02='rgb:#d8d8d8'
-    base03='rgb:#b8b8b8'
-    base04='rgb:#585858'
-    base05='rgb:#383838'
-    base06='rgb:#282828'
-    base07='rgb:#181818'
-    base08='rgb:#ab4642'
-    base09='rgb:#dc9656'
-    base0A='rgb:#f7ca88'
-    base0B='rgb:#a1b56c'
-    base0C='rgb:#86c1b9'
-    base0D='rgb:#7cafc2'
-    base0E='rgb:#ba8baf'
-    base0F='rgb:#a16946'
+    base00='rgb:f8f8f8'
+    base01='rgb:e8e8e8'
+    base02='rgb:d8d8d8'
+    base03='rgb:b8b8b8'
+    base04='rgb:585858'
+    base05='rgb:383838'
+    base06='rgb:282828'
+    base07='rgb:181818'
+    base08='rgb:ab4642'
+    base09='rgb:dc9656'
+    base0A='rgb:f7ca88'
+    base0B='rgb:a1b56c'
+    base0C='rgb:86c1b9'
+    base0D='rgb:7cafc2'
+    base0E='rgb:ba8baf'
+    base0F='rgb:a16946'
 
     ## code
     echo "

@@ -2,7 +2,7 @@
 
 # base16-prompt-toolkit (https://github.com/memeplex/base16-prompt-toolkit)
 # Base16 Prompt Toolkit template by Carlos Pita (carlosjosepita@gmail.com
-# Ayu Mirage scheme by Khue Nguyen <Z5483Y@gmail.com>
+# Ayu Mirage scheme by Khue Nguyen (https://github.com/Z5483)
 
 try:
   # older than v2

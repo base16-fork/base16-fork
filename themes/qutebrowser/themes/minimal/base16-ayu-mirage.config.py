@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Ayu Mirage scheme by Khue Nguyen <Z5483Y@gmail.com>
+# Ayu Mirage scheme by Khue Nguyen (https://github.com/Z5483)
 
 base00 = "#171B24"
 base01 = "#1F2430"

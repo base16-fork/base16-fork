@@ -1,6 +1,6 @@
 (progn
   ;; Base16 Ayu Dark
-  ;; Author: Khue Nguyen <Z5483Y@gmail.com>
+  ;; Author: Khue Nguyen (https://github.com/Z5483)
 
   (stumpwm:set-fg-color "#BFBDB6")
   (stumpwm:set-bg-color "#0F1419")

@@ -1,6 +1,6 @@
 " Base16 Ayu Light vim-airline-theme (https://github.com/dawikur/base16-vim-airline-themes)
 " For vim-airline (https://github.com/vim-airline/vim-airline)
-" By Khue Nguyen <Z5483Y@gmail.com>
+" By Khue Nguyen (https://github.com/Z5483)
 
 let s:scheme_slug = substitute("ayu-light", "-", "_", "g")
 

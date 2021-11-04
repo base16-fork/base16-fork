@@ -3,7 +3,7 @@
   Author: {Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).}
   License: ~ MIT (or more permissive) [via base16-schemes-source]
   Maintainer: @highlightjs/core-team
-  Version: 2021.05.0
+  Version: 2021.09.0
 */
 
 /*
@@ -49,8 +49,10 @@ code.hljs {
   background: #1e1e3f;
 }
 
+.hljs::selection,
 .hljs ::selection {
-  color: #f1d000;
+  background-color: #f1d000;
+  color: #c7c7c7;
 }
 
 

@@ -1,5 +1,5 @@
 // Base16 Ayu Dark
-// Scheme: Khue Nguyen <Z5483Y@gmail.com>
+// Scheme: Khue Nguyen (https://github.com/Z5483)
 
 var color_scheme = {
         'base00': '#0F1419',

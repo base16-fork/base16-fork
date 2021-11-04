@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Ayu Light scheme by Khue Nguyen <Z5483Y@gmail.com>
+# Ayu Light scheme by Khue Nguyen (https://github.com/Z5483)
 
 base00 = "#FAFAFA"
 base01 = "#F3F4F5"

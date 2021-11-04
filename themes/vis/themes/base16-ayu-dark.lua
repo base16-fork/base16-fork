@@ -1,6 +1,6 @@
 -- base16-vis (https://github.com/pshevtsov/base16-vis)
 -- by Petr Shevtsov
--- Ayu Dark scheme by Khue Nguyen <Z5483Y@gmail.com>
+-- Ayu Dark scheme by Khue Nguyen (https://github.com/Z5483)
 
 local lexers = vis.lexers
 

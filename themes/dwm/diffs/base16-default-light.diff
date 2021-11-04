@@ -16,12 +16,12 @@ index 1c0b587..efdbcc4 100644
 + * Base16 dwm template by Daniel Mulford
 + * Default Light scheme by Chris Kempson (http://chriskempson.com)
 + */
-+static const char col_base00[]      = "##f8f8f8";
-+static const char col_base01[]      = "##e8e8e8";
-+static const char col_base02[]      = "##d8d8d8";
-+static const char col_base04[]      = "##585858";
-+static const char col_base0C[]      = "##86c1b9";
-+static const char col_base0D[]      = "##7cafc2";
++static const char col_base00[]      = "#f8f8f8";
++static const char col_base01[]      = "#e8e8e8";
++static const char col_base02[]      = "#d8d8d8";
++static const char col_base04[]      = "#585858";
++static const char col_base0C[]      = "#86c1b9";
++static const char col_base0D[]      = "#7cafc2";
  static const char *colors[][3]      = {
 -	/*               fg         bg         border   */
 -	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

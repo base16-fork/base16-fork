@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: Khue Nguyen <Z5483Y@gmail.com></string>
+	<string>Template: Chris Kempson, Scheme: Khue Nguyen (https://github.com/Z5483)</string>
 	<key>name</key>
 	<string>Base16 Ayu Mirage</string>
 	<key>semanticClass</key>

@@ -1,6 +1,6 @@
 -- Base16 Theme: Ayu Dark
 -- http://chriskempson.com/projects/base16/
--- Theme author: {Khue Nguyen <Z5483Y@gmail.com>}
+-- Theme author: {Khue Nguyen (https://github.com/Z5483)}
 -- Template Repository: https://github.com/rgieseke/base16-textadept
 -- Template adapted from Textadept's default templates
 -- Copyright 2007-2020 Mitchell mitchell.att.foicica.com. MIT licensed.

@@ -4,7 +4,7 @@
   https://github.com/chriskempson/base16-builder/blob/master/templates/gnome-terminal/dark.sh.erb
 }}
 # Base16 Ayu Mirage - Gnome Terminal color scheme install script
-# Khue Nguyen <Z5483Y@gmail.com>
+# Khue Nguyen (https://github.com/Z5483)
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Ayu Mirage"
 [[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ayu-mirage"

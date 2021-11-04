@@ -1,7 +1,7 @@
 # vi:syntax=toml
 
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
-# Ayu Dark by Khue Nguyen <Z5483Y@gmail.com>
+# Ayu Dark by Khue Nguyen (https://github.com/Z5483)
 
 [theme]
 name = "solarized-dark"

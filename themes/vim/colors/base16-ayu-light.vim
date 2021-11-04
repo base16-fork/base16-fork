@@ -2,7 +2,7 @@
 
 " base16-vim (https://github.com/chriskempson/base16-vim)
 " by Chris Kempson (http://chriskempson.com)
-" Ayu Light scheme by Khue Nguyen <Z5483Y@gmail.com>
+" Ayu Light scheme by Khue Nguyen (https://github.com/Z5483)
 
 " This enables the coresponding base16-shell script to run so that
 " :colorscheme works in terminals supported by base16-shell scripts

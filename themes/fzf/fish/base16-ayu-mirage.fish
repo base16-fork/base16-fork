@@ -1,5 +1,5 @@
 # Base16 Ayu Mirage
-# Author: Khue Nguyen <Z5483Y@gmail.com>
+# Author: Khue Nguyen (https://github.com/Z5483)
 
 set -l color00 '#171B24'
 set -l color01 '#1F2430'

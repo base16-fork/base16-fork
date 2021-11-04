@@ -4,7 +4,7 @@
 ;; Base16: (https://github.com/chriskempson/base16)
 
 ;;; Authors:
-;; Scheme: Khue Nguyen <Z5483Y@gmail.com>
+;; Scheme: Khue Nguyen (https://github.com/Z5483)
 ;; Template: Kaleb Elwert <belak@coded.io>
 
 ;;; Code:

@@ -1,5 +1,5 @@
 // Base16 Ayu Mirage
-// Scheme: Khue Nguyen <Z5483Y@gmail.com>
+// Scheme: Khue Nguyen (https://github.com/Z5483)
 
 base00 = '#171B24';
 base01 = '#1F2430';

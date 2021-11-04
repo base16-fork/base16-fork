@@ -1,6 +1,6 @@
 /* base16-c_header (https://github.com/m1sports20/base16-c_header)
  * by Michael Spradling (http://mspradling.com)
- * Ayu Light schema by Khue Nguyen <Z5483Y@gmail.com>
+ * Ayu Light schema by Khue Nguyen (https://github.com/Z5483)
  *
  * This is a standard c header that can be included in any c project.
 */

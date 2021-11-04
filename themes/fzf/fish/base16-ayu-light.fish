@@ -1,5 +1,5 @@
 # Base16 Ayu Light
-# Author: Khue Nguyen <Z5483Y@gmail.com>
+# Author: Khue Nguyen (https://github.com/Z5483)
 
 set -l color00 '#FAFAFA'
 set -l color01 '#F3F4F5'

@@ -1,6 +1,6 @@
 (progn
   ;; Base16 Ayu Mirage
-  ;; Author: Khue Nguyen <Z5483Y@gmail.com>
+  ;; Author: Khue Nguyen (https://github.com/Z5483)
 
   (stumpwm:set-fg-color "#8A9199")
   (stumpwm:set-bg-color "#171B24")
