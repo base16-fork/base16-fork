@@ -1,13 +1,13 @@
 .POSIX:
 
-BUILD=cbase16
+all: get-builder build
 
-all: update build
-
-update:
-	$(BUILD) update
+get-builder:
+	test -f ./builder/cbase16.cpp || git clone https://github.com/base16-fork/cbase16 ./builder
+	make -C ./builder
 
 build:
-	$(BUILD) build -o themes
+	./builder/cbase16 update -c ./builder
+	./builder/cbase16 build -c ./builder -o themes
 
-.PHONY: all update build clean
+.PHONY: all get-builder build
