@@ -22,20 +22,20 @@ pre[class*="language-"] {
   -moz-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
-  background: #c4d9c4;
-  color: #d0d0d0;
+  background: #e0e0e0;
+  color: #000000;
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
   text-shadow: none;
-  background: #f8f8f8;
+  background: #202020;
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
   text-shadow: none;
-  background: #f8f8f8;
+  background: #202020;
 }
 
 /* Code blocks */
@@ -55,11 +55,11 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #202020;
+  color: #707070;
 }
 
 .token.punctuation {
-  color: #d0d0d0;
+  color: #000000;
 }
 
 .token.namespace {
@@ -117,7 +117,7 @@ pre[class*="language-"] {
 }
 
 .token.inserted {
-  border-bottom: 1px dotted #e0e0e0;
+  border-bottom: 1px dotted #c4d9c4;
   text-decoration: none;
 }
 
@@ -147,11 +147,11 @@ pre > code.highlight {
  * http://prismjs.com/plugins/line-numbers/
  */
 .line-numbers .line-numbers-rows {
-  border-right-color: #f8f8f8};
+  border-right-color: #d0dad0;
 }
 
 .line-numbers-rows > span:before {
-  color: #000000};
+  color: #d0d0d0;
 }
 
 /* overrides color-values for the Line Highlight plugin
@@ -160,6 +160,6 @@ pre > code.highlight {
  * https://drafts.csswg.org/css-color/#hex-notation
  */
 .line-highlight {
-  background: #707070}33;
-  background: linear-gradient(to right, #707070}33 70%, #707070}00);
+  background: #00000033;
+  background: linear-gradient(to right, #00000033 70%, #00000000);
 }
