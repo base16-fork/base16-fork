@@ -23,19 +23,19 @@ pre[class*="language-"] {
   -ms-hyphens: none;
   hyphens: none;
   background: #ffffff;
-  color: #c8c8fa;
+  color: #333333;
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
   text-shadow: none;
-  background: #ffffff;
+  background: #e8e8e8;
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
   text-shadow: none;
-  background: #ffffff;
+  background: #e8e8e8;
 }
 
 /* Code blocks */
@@ -55,11 +55,11 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #e8e8e8;
+  color: #969896;
 }
 
 .token.punctuation {
-  color: #c8c8fa;
+  color: #333333;
 }
 
 .token.namespace {
@@ -147,11 +147,11 @@ pre > code.highlight {
  * http://prismjs.com/plugins/line-numbers/
  */
 .line-numbers .line-numbers-rows {
-  border-right-color: #ffffff};
+  border-right-color: #f5f5f5;
 }
 
 .line-numbers-rows > span:before {
-  color: #333333};
+  color: #c8c8fa;
 }
 
 /* overrides color-values for the Line Highlight plugin
@@ -160,6 +160,6 @@ pre > code.highlight {
  * https://drafts.csswg.org/css-color/#hex-notation
  */
 .line-highlight {
-  background: #969896}33;
-  background: linear-gradient(to right, #969896}33 70%, #969896}00);
+  background: #33333333;
+  background: linear-gradient(to right, #33333333 70%, #33333300);
 }
